@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Alternance Finder – Trouve ton alternance en informatique</title>
+  <meta name="description" content="Recherche d'offres d'alternance en informatique en Île-de-France, avec lien vers l'annonce officielle.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="entete">
+    <div class="conteneur entete__barre">
+      <a class="logo" href="#accueil" aria-label="Alternance Finder, accueil">
+        <span class="logo__marque" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M8 8l-4 4 4 4M16 8l4 4-4 4M13.5 6l-3 12"/></svg>
+        </span>
+        Alternance Finder
+      </a>
+      <nav class="nav" aria-label="Navigation principale">
+        <a href="#offres">Offres</a>
+        <a href="#fonctionnement">Fonctionnement</a>
+        <a class="btn btn--clair" href="#offres">Voir les offres</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="accueil">
+    <section class="hero">
+      <div class="conteneur hero__contenu">
+        <h1>Une alternance en informatique, avec le lien direct vers l'annonce.</h1>
+        <p class="hero__texte">Alternance Finder regroupe les offres publiées sur La Bonne Alternance en Île-de-France. Tu cherches par poste, entreprise ou ville, tu filtres par domaine, puis tu postules sur la page officielle.</p>
+      </div>
+    </section>
+
+    <div class="conteneur recherche-zone">
+      <form id="form-recherche" class="recherche" role="search">
+        <label class="recherche__champ" for="q">
+          <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+          <span class="sr-only">Poste, entreprise ou ville</span>
+          <input id="q" type="search" placeholder="Poste, entreprise ou ville" autocomplete="off">
+        </label>
+        <button class="btn btn--primaire btn--grand" type="submit">Rechercher</button>
+      </form>
+      <p id="resume" class="recherche-zone__resume" aria-live="polite">Chargement des offres…</p>
+      <div id="puces" class="puces" aria-label="Domaines populaires"></div>
+    </div>
+
+    <section id="offres" class="section" aria-labelledby="titre-offres">
+      <div class="conteneur layout">
+        <aside id="panneau-filtres" class="filtres" aria-label="Filtres">
+          <div class="filtres__entete">
+            <h2 class="filtres__titre">Filtres</h2>
+            <button id="reset" class="lien-bouton" type="button">Réinitialiser</button>
+          </div>
+
+          <fieldset class="filtre">
+            <legend>Domaine</legend>
+            <div id="filtre-domaines" class="filtre__liste"></div>
+          </fieldset>
+
+          <div class="filtre">
+            <label for="filtre-departement">Département</label>
+            <select id="filtre-departement"><option value="">Tous les départements</option></select>
+          </div>
+
+          <div class="filtre">
+            <label for="filtre-contrat">Type de contrat</label>
+            <select id="filtre-contrat"><option value="">Tous les contrats</option></select>
+          </div>
+
+          <div class="filtre">
+            <label class="interrupteur">
+              <input id="filtre-lien" type="checkbox">
+              <span>Uniquement les offres avec lien officiel</span>
+            </label>
+          </div>
+        </aside>
+
+        <div class="resultats">
+          <div class="resultats__entete">
+            <div>
+              <h2 id="titre-offres" class="resultats__titre">Offres d'alternance</h2>
+              <p id="compteur" class="resultats__compteur" aria-live="polite"></p>
+            </div>
+            <div class="resultats__outils">
+              <button id="toggle-filtres" class="btn btn--contour btn--filtres" type="button" aria-expanded="false" aria-controls="panneau-filtres">Filtres</button>
+              <label class="tri">
+                <span>Trier par</span>
+                <select id="tri">
+                  <option value="recent">Plus récentes</option>
+                  <option value="expiration">Expiration proche</option>
+                  <option value="entreprise">Entreprise (A à Z)</option>
+                </select>
+              </label>
+            </div>
+          </div>
+
+          <div id="liste" class="liste"></div>
+          <div id="etat" class="etat" hidden></div>
+          <div class="plus"><button id="plus" class="btn btn--contour" type="button" hidden>Afficher plus d'offres</button></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="fonctionnement" class="section section--claire">
+      <div class="conteneur info">
+        <h2>Comment lire les fiches</h2>
+        <div class="info__grille">
+          <div>
+            <h3>Lien officiel</h3>
+            <p>Le bouton « Voir l'offre » apparaît seulement si la source fournit l'adresse de l'annonce. Sinon, la fiche indique que le lien reste à récupérer.</p>
+          </div>
+          <div>
+            <h3>Fiche complète ou incomplète</h3>
+            <p>Une fiche est complète quand l'entreprise, le lieu et le lien sont renseignés. Sinon, les informations absentes sont listées sur la carte.</p>
+          </div>
+          <div>
+            <h3>Disponibilité</h3>
+            <p>Nous ne vérifions pas en direct si une annonce est toujours ouverte. La date affichée est la date d'expiration publiée par la source.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="pied">
+    <div class="conteneur">
+      <p>Alternance Finder est un projet étudiant (ESGI, Bachelor 3 Ingénierie du Web). Données : La Bonne Alternance, API Apprentissage.</p>
+    </div>
+  </footer>
+</body>
+</html>
