@@ -1,5 +1,41 @@
 [
  {
+  "id": "6ad3f422ee10726147fcdf14",
+  "entreprise": "TWO CATS",
+  "poste": "Alternance - Assistant(e) e-commerce & site web (H/F)",
+  "lieu": "95370 Montigny-lès-Cormeilles",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-10-17T14:56:02.691Z",
+  "expiration": "2026-12-17T14:56:02.691Z",
+  "domaine": "Développement",
+  "url": "https://candidat.francetravail.fr/offres/recherche/detail/215JKDD"
+ },
+ {
+  "id": "6ab4517868233dbb8f6a4450",
+  "entreprise": "ELIOR GROUP",
+  "poste": "Alternance - Chef de projet Transformation IA & Processus (H/F)",
+  "lieu": "94000 Créteil",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-16T23:08:34.557Z",
+  "expiration": "2026-12-16T23:08:34.557Z",
+  "domaine": "Data & IA",
+  "url": "https://www.meteojob.com/jobs/57008399?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance"
+ },
+ {
+  "id": "6ad3f11ecc1761c8ae02d7f7",
+  "entreprise": "GROUPE PASTEUR MUTUALITE ACTION SOCIALE",
+  "poste": "Engineer - IA Générative & Agents IA - Alternance H/F",
+  "lieu": "75001 Paris",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-16T20:05:00.000Z",
+  "expiration": "2026-12-16T20:05:00.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=ygfp5j&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84529371.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84529371"
+ },
+ {
   "id": "6ad29fb475ec98a5c11451eb",
   "entreprise": "CARREFOUR HYPERMARCHES",
   "poste": "Manager Data & Assortiment en Alternance H/F",
@@ -420,18 +456,6 @@
   "url": "https://annoncesatlas.opco-atlas.fr/jobads/114152?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance"
  },
  {
-  "id": "6ab4517868233dbb8f6a4450",
-  "entreprise": "ELIOR GROUP",
-  "poste": "Alternance - Chef de projet Transformation IA & Processus (H/F)",
-  "lieu": "94000 Créteil",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-04T23:06:28.000Z",
-  "expiration": "2026-12-04T23:06:28.000Z",
-  "domaine": "Data & IA",
-  "url": "https://www.meteojob.com/jobs/57008399?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance"
- },
- {
   "id": "6a99f014b7a03ff3606ecd2a",
   "entreprise": "HELLOWORK",
   "poste": "Alternance - Transformation Digitale et IA H/F",
@@ -538,18 +562,6 @@
   "expiration": "2026-11-23T08:16:59.000Z",
   "domaine": "Data & IA",
   "url": "https://r.holeest.com/redirect?jd_token=pJ64Ya&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83677969.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D83677969"
- },
- {
-  "id": "6ab44dcb68233dbb8f6a0887",
-  "entreprise": "ATALIAN",
-  "poste": "Alternant(e) Data Governance & Data Quality Officer (H/F)",
-  "lieu": "94400 Vitry-sur-Seine",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-09-22T13:51:07.000Z",
-  "expiration": "2026-11-22T13:51:07.000Z",
-  "domaine": "Data & IA",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ab44dcb68233dbb8f6a0887/alternant-e-data-governance-amp-data-quality-officer-h-f"
  },
  {
   "id": "6ab2ff287caaafd3f596a596",
