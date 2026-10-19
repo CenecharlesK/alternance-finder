@@ -1,5 +1,65 @@
 [
  {
+  "id": "6ad52ca45334fda8505e5ac2",
+  "entreprise": "ORGANISATION ET DEVELOPPEMENT",
+  "poste": "Technicien / Technicienne informatique",
+  "lieu": "90 ESPLANADE DU GENERAL DE GAULLE 92400 COURBEVOIE",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 24,
+  "publie": "2026-10-18T20:31:32.443Z",
+  "expiration": "2026-12-18T00:00:00.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ad52ca45334fda8505e5ac2/technicien-technicienne-informatique"
+ },
+ {
+  "id": "6ad545b6ee10726147fd4ac7",
+  "entreprise": "DIOT-SIACI",
+  "poste": "ALTERNANCE - Assistant Informatique RSE H/F",
+  "lieu": "92110 Clichy",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-10-18T14:35:26.793Z",
+  "expiration": "2026-12-18T14:35:26.793Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "http://app.mytalentplug.com/redirection.aspx?ojid=xDsuSXmHYWueVXVDaurt0w=="
+ },
+ {
+  "id": "6aac64a46b0f1ab1a51ecaa1",
+  "entreprise": "Starboost",
+  "poste": "Chef de Projet Digital en Alternance H/F",
+  "lieu": "75001 Paris",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 12,
+  "publie": "2026-10-17T20:12:35.000Z",
+  "expiration": "2026-12-17T20:12:35.000Z",
+  "domaine": "Gestion de projet & produit",
+  "url": "https://r.holeest.com/redirect?jd_token=pJ4gor&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83480825.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83480825"
+ },
+ {
+  "id": "6a84d833dadca948717059e7",
+  "entreprise": "ONET SERVICES",
+  "poste": "Chef de Projet Technique H/F",
+  "lieu": "92400 Courbevoie",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-17T20:09:26.000Z",
+  "expiration": "2026-12-17T20:09:26.000Z",
+  "domaine": "Gestion de projet & produit",
+  "url": "https://r.holeest.com/redirect?jd_token=pJ4gyo&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82362541.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D82362541"
+ },
+ {
+  "id": "6a346e5c7f27726a04971118",
+  "entreprise": "CMA CGM",
+  "poste": "Alternance - Assistant Chef de Projet Digital Performance H/F",
+  "lieu": "75001 Paris",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-17T20:05:48.000Z",
+  "expiration": "2026-12-17T20:05:48.000Z",
+  "domaine": "Gestion de projet & produit",
+  "url": "https://r.holeest.com/redirect?jd_token=pJ4gnI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80260796.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D80260796"
+ },
+ {
   "id": "6ad3f422ee10726147fcdf14",
   "entreprise": "TWO CATS",
   "poste": "Alternance - Assistant(e) e-commerce & site web (H/F)",
@@ -58,18 +118,6 @@
   "expiration": "2026-12-16T10:58:21.000Z",
   "domaine": "Développement",
   "url": "https://r.holeest.com/redirect?jd_token=y0SsJU&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84509457.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84509457"
- },
- {
-  "id": "6ad1512bb846587f82fa5cc7",
-  "entreprise": "Nexia S&A",
-  "poste": "Apprenti technicien en informatique F/H - Nexia S&A",
-  "lieu": "75017 Paris 17e Arrondissement",
-  "contrat": "Professionnalisation",
-  "duree": 24,
-  "publie": "2026-10-15T21:15:08.222Z",
-  "expiration": "2026-12-15T21:15:08.222Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://carrieres.nexia-sa.fr/fr/offres/apprenti-technicien-en-informatique-d2254a?utm_source=francetravail&utm_medium=job-board"
  },
  {
   "id": "6ad14ce7eb0b1e6ac91f775b",
