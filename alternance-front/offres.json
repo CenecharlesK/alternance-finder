@@ -1,17 +1,5 @@
 [
  {
-  "id": "6ad52ca45334fda8505e5ac2",
-  "entreprise": "ORGANISATION ET DEVELOPPEMENT",
-  "poste": "Technicien / Technicienne informatique",
-  "lieu": "90 ESPLANADE DU GENERAL DE GAULLE 92400 COURBEVOIE",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": 24,
-  "publie": "2026-10-18T20:31:32.443Z",
-  "expiration": "2026-12-18T00:00:00.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ad52ca45334fda8505e5ac2/technicien-technicienne-informatique"
- },
- {
   "id": "6ad545b6ee10726147fd4ac7",
   "entreprise": "DIOT-SIACI",
   "poste": "ALTERNANCE - Assistant Informatique RSE H/F",
@@ -60,18 +48,6 @@
   "url": "https://r.holeest.com/redirect?jd_token=pJ4gnI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80260796.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D80260796"
  },
  {
-  "id": "6ad3f422ee10726147fcdf14",
-  "entreprise": "TWO CATS",
-  "poste": "Alternance - Assistant(e) e-commerce & site web (H/F)",
-  "lieu": "95370 Montigny-lès-Cormeilles",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-17T14:56:02.691Z",
-  "expiration": "2026-12-17T14:56:02.691Z",
-  "domaine": "Développement",
-  "url": "https://candidat.francetravail.fr/offres/recherche/detail/215JKDD"
- },
- {
   "id": "6ab4517868233dbb8f6a4450",
   "entreprise": "ELIOR GROUP",
   "poste": "Alternance - Chef de projet Transformation IA & Processus (H/F)",
@@ -96,28 +72,16 @@
   "url": "https://r.holeest.com/redirect?jd_token=ygfp5j&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84529371.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84529371"
  },
  {
-  "id": "6ad29fb475ec98a5c11451eb",
-  "entreprise": "CARREFOUR HYPERMARCHES",
-  "poste": "Manager Data & Assortiment en Alternance H/F",
-  "lieu": "91300 Massy",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-16T17:52:32.000Z",
-  "expiration": "2026-12-16T17:52:32.000Z",
+  "id": "6ad6972ee2d92300cfde6abe",
+  "entreprise": "",
+  "poste": "Alternant Python Developer - Web Scraping & Data Collection (H/F)",
+  "lieu": "75004 Paris 4e Arrondissement",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-10-16T12:57:28.224Z",
+  "expiration": "2026-12-16T12:57:28.224Z",
   "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=yfZZm7&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84528810.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84528810"
- },
- {
-  "id": "6ad29fb475ec98a5c11451bb",
-  "entreprise": "BUT",
-  "poste": "Alternant Chef de Produits Web H/F",
-  "lieu": "77184 Émerainville",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-16T10:58:21.000Z",
-  "expiration": "2026-12-16T10:58:21.000Z",
-  "domaine": "Développement",
-  "url": "https://r.holeest.com/redirect?jd_token=y0SsJU&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84509457.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84509457"
+  "url": "https://candidat.francetravail.fr/offres/recherche/detail/215HVRN"
  },
  {
   "id": "6ad14ce7eb0b1e6ac91f775b",
@@ -198,8 +162,8 @@
   "lieu": "92100 Boulogne-Billancourt",
   "contrat": "Apprentissage, Professionnalisation",
   "duree": null,
-  "publie": "2026-10-14T16:06:13.636Z",
-  "expiration": "2026-11-13T16:59:58.000Z",
+  "publie": "2026-10-14T16:11:23.969Z",
+  "expiration": "2026-11-18T16:29:37.000Z",
   "domaine": "Data & IA",
   "url": "https://www.directemploi.com/candidatOffre/55763504?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance"
  },
@@ -288,6 +252,18 @@
   "url": "https://jobaffinity.fr/apply/0lb3gjvr3vizneafs3?src=FranceTravail%20API"
  },
  {
+  "id": "6ace427566f2a3ca60c99caf",
+  "entreprise": "INFLIGHT SALES GROUP (EUROPE) SAS",
+  "poste": "Spécialiste support technique informatique",
+  "lieu": "3 RUE DES FRERES THONET  94450 LIMEIL-BREVANNES",
+  "contrat": "Apprentissage",
+  "duree": 24,
+  "publie": "2026-10-13T14:38:45.930Z",
+  "expiration": "2026-12-20T00:00:00.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ace427566f2a3ca60c99caf/spécialiste-support-technique-informatique"
+ },
+ {
   "id": "6acffcb00bdf06aea29867e8",
   "entreprise": "GROUPE LA FRANCAISE",
   "poste": "Alternance - Webmaster H/F",
@@ -358,18 +334,6 @@
   "expiration": "2026-12-12T08:10:49.910Z",
   "domaine": "Gestion de projet & produit",
   "url": "https://joinus.saint-gobain.com/description?nPostingTargetId=326172&id=Q2FFK026203F3VBQBLO7V8M1O&LG=FR&languageSelect=FR&cType=JobBoard&sType=FranceTravail"
- },
- {
-  "id": "6acd5c9b0226c9bf0008d1d9",
-  "entreprise": "ETIAH",
-  "poste": "DEVELOPPEUR FONCIER (H/F)",
-  "lieu": "75001 Paris",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-12T08:03:54.292Z",
-  "expiration": "2026-12-12T08:03:54.292Z",
-  "domaine": "Développement",
-  "url": "https://candidat.francetravail.fr/offres/recherche/detail/215BTRW"
  },
  {
   "id": "6aa5cd59e3e77bdfae2a281b",
@@ -456,30 +420,6 @@
   "url": "https://candidat.francetravail.fr/offres/recherche/detail/214XXXM"
  },
  {
-  "id": "6ac65695236a5c3a16ed22d7",
-  "entreprise": "RESTO PACK",
-  "poste": "Chargé(e) de projet web UX/UI en alternance",
-  "lieu": "19 RUE HENRI GAUTIER 93000 BOBIGNY",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-07T14:26:29.849Z",
-  "expiration": "2026-12-07T00:00:00.000Z",
-  "domaine": "Design UX/UI",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ac65695236a5c3a16ed22d7/chargé-de-webmarketing-et-e-commerce-en-alternance-h-f"
- },
- {
-  "id": "6ac573da32e88690a89228ff",
-  "entreprise": "",
-  "poste": "Architecte logiciel et développement applicatif (H/F)",
-  "lieu": "75009 Paris 9e Arrondissement",
-  "contrat": "Apprentissage",
-  "duree": 24,
-  "publie": "2026-10-06T03:24:00.432Z",
-  "expiration": "2026-12-06T03:24:00.432Z",
-  "domaine": "Développement",
-  "url": "https://www.meteojob.com/jobs/56878430?utm_source=pole-emploi&utm_medium=aggregator-free"
- },
- {
   "id": "6ac4222732e88690a891c425",
   "entreprise": "Alcatel Submarine Networks",
   "poste": "PROJECT MANAGEMENT OFFICE IS&IT - PMO OUTILS F/H - Alcatel Submarine Networks",
@@ -562,6 +502,18 @@
   "expiration": "2026-11-26T20:09:20.000Z",
   "domaine": "Data & IA",
   "url": "https://r.holeest.com/redirect?jd_token=pJbImT&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81727569.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D81727569"
+ },
+ {
+  "id": "6ad696a2e2d92300cfde48af",
+  "entreprise": "MAYOLY",
+  "poste": "ALTERNANT CHARGÉ DANALYSE DE DONNÉES SUPPLY CHAIN - H/F",
+  "lieu": "92500 Rueil-Malmaison",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-09-25T15:29:18.166Z",
+  "expiration": "2026-11-25T15:29:18.166Z",
+  "domaine": "Data & IA",
+  "url": "https://mayoly-spindler.softy.pro/offre/221812?idt=5&h=2218120"
  },
  {
   "id": "6ab5a2477caaafd3f597841e",
