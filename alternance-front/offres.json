@@ -1,5 +1,77 @@
 [
  {
+  "id": "6ad7e5bb76e8f92c0ea5269f",
+  "entreprise": "CARREFOUR HYPERMARCHES",
+  "poste": "Chargé de Mission Data - Service Lad en Alternance H/F",
+  "lieu": "92390 Villeneuve-la-Garenne",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-20T17:31:10.000Z",
+  "expiration": "2026-12-20T17:31:10.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=zzZs86&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84637716.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84637716"
+ },
+ {
+  "id": "6ad7792176f66547ccc0f058",
+  "entreprise": "SAS WOODOO",
+  "poste": "ALTERNANCE - Développeur·se Full Stack – Industrie 4.0 (H/F)",
+  "lieu": "75001 Paris",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-20T14:22:21.473Z",
+  "expiration": "2026-12-04T14:22:25.329Z",
+  "domaine": "Développement",
+  "url": "https://jobs.makesense.org/fr/jobs/woodoo-alternance-developpeurse-full-stack-industrie-40-hf-yGvoUSTAta9bd4OUhj3X?source=api-apprentissage"
+ },
+ {
+  "id": "6ad7791e04d39aae9b87130c",
+  "entreprise": "SAS WOODOO",
+  "poste": "ALTERNANCE - Développeur·se Full Stack – Industrie 4.0 (H/F)",
+  "lieu": "75001 Paris",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-20T14:22:21.473Z",
+  "expiration": "2026-12-04T14:22:22.473Z",
+  "domaine": "Développement",
+  "url": "https://jobs.makesense.org/fr/jobs/woodoo-alternance-developpeurse-full-stack-industrie-40-hf-yGvoUSTAta9bd4OUhj3X?source=api-apprentissage"
+ },
+ {
+  "id": "6ad7e5b976e8f92c0ea52632",
+  "entreprise": "CARREFOUR HYPERMARCHES",
+  "poste": "Alternant IA et Excellence Opérationnelle & Digitale E-Commerce H/F",
+  "lieu": "91300 Massy",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 12,
+  "publie": "2026-10-20T09:16:35.000Z",
+  "expiration": "2026-12-20T09:16:35.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=zrCL3m&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84617593.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84617593"
+ },
+ {
+  "id": "6ad7e47d76e8f92c0ea4dff9",
+  "entreprise": "ELOGIE - SIEMP",
+  "poste": "ALTERNANCE - Chargé d'opérations maîtrise d'ouvrage H/F",
+  "lieu": "75019 Paris 19e Arrondissement",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-19T22:00:59.000Z",
+  "expiration": "2026-12-18T22:00:59.000Z",
+  "domaine": "Gestion de projet & produit",
+  "url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/paris/alternance-chargé-d-opérations-maîtrise-d-ouvrage-h-f-999926934"
+ },
+ {
+  "id": "6aa1d8d40d35903fc267c44d",
+  "entreprise": "ETAM LINGERIE",
+  "poste": "Assistant·e Product Owner CRM - Alternance Octobre 2026 H/F",
+  "lieu": "92110 Clichy",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-19T20:46:03.000Z",
+  "expiration": "2026-12-19T20:46:03.000Z",
+  "domaine": "Gestion de projet & produit",
+  "url": "https://r.holeest.com/redirect?jd_token=z70Hbv&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83201526.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83201526"
+ },
+ {
   "id": "6ad545b6ee10726147fd4ac7",
   "entreprise": "DIOT-SIACI",
   "poste": "ALTERNANCE - Assistant Informatique RSE H/F",
@@ -46,18 +118,6 @@
   "expiration": "2026-12-17T20:05:48.000Z",
   "domaine": "Gestion de projet & produit",
   "url": "https://r.holeest.com/redirect?jd_token=pJ4gnI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80260796.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D80260796"
- },
- {
-  "id": "6ab4517868233dbb8f6a4450",
-  "entreprise": "ELIOR GROUP",
-  "poste": "Alternance - Chef de projet Transformation IA & Processus (H/F)",
-  "lieu": "94000 Créteil",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-16T23:08:34.557Z",
-  "expiration": "2026-12-16T23:08:34.557Z",
-  "domaine": "Data & IA",
-  "url": "https://www.meteojob.com/jobs/57008399?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance"
  },
  {
   "id": "6ad3f11ecc1761c8ae02d7f7",
@@ -466,30 +526,6 @@
   "expiration": "2026-12-01T20:07:18.000Z",
   "domaine": "Data & IA",
   "url": "https://r.holeest.com/redirect?jd_token=pJ64Wd&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82911204.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D82911204"
- },
- {
-  "id": "6abd880bd46e986892b9e15f",
-  "entreprise": "CARREFOUR HYPERMARCHES",
-  "poste": "Data Engineer - en Alternance H/F",
-  "lieu": "91300 Massy",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-09-29T09:09:38.000Z",
-  "expiration": "2026-11-29T09:09:38.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=qrSFUt&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83892083.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D83892083"
- },
- {
-  "id": "6aba8529810013aef3c041dc",
-  "entreprise": "REGIE AUTONOME DES TRANSPORTS PARISIENS",
-  "poste": "Alternant Service Delivery Manager IT (H/F)",
-  "lieu": "Esplanade de la Commune de Paris 93160 Noisy-le-Grand",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-09-28T05:09:01.000Z",
-  "expiration": "2026-10-28T04:10:01.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://api.mytalentplug.com/job/v1/joboffer/redirect?id=69666f1c-745f-4613-86d2-3c67e294e2d2"
  },
  {
   "id": "6aa86fa79dceff7dd4b88a5b",
