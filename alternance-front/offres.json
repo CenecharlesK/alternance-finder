@@ -1,27 +1,39 @@
 [
  {
-  "id": "6ad7e5bb76e8f92c0ea5269f",
-  "entreprise": "CARREFOUR HYPERMARCHES",
-  "poste": "Chargé de Mission Data - Service Lad en Alternance H/F",
-  "lieu": "92390 Villeneuve-la-Garenne",
+  "id": "6ad8d77a89b32213e2c3a0d3",
+  "entreprise": "LELITES PARTICIPATIONS",
+  "poste": "Technicien / Technicienne informatique",
+  "lieu": "45 ROUTE NATIONALE 10 78310 COIGNIERES",
   "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-20T17:31:10.000Z",
-  "expiration": "2026-12-20T17:31:10.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=zzZs86&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84637716.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84637716"
+  "duree": 12,
+  "publie": "2026-10-21T15:17:14.227Z",
+  "expiration": "2026-12-21T00:00:00.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ad8d77a89b32213e2c3a0d3/technicien-technicienne-informatique"
  },
  {
-  "id": "6ad7792176f66547ccc0f058",
-  "entreprise": "SAS WOODOO",
-  "poste": "ALTERNANCE - Développeur·se Full Stack – Industrie 4.0 (H/F)",
-  "lieu": "75001 Paris",
+  "id": "6ad93ae32b0b33f74bce64bd",
+  "entreprise": "FRANCE TRAVAIL",
+  "poste": "Apprentissage - chargé.e d'analyse de données de pilotage",
+  "lieu": "75020 Paris 20e Arrondissement",
   "contrat": "Apprentissage, Professionnalisation",
   "duree": null,
-  "publie": "2026-10-20T14:22:21.473Z",
-  "expiration": "2026-12-04T14:22:25.329Z",
-  "domaine": "Développement",
-  "url": "https://jobs.makesense.org/fr/jobs/woodoo-alternance-developpeurse-full-stack-industrie-40-hf-yGvoUSTAta9bd4OUhj3X?source=api-apprentissage"
+  "publie": "2026-10-21T12:45:38.383Z",
+  "expiration": "2026-12-20T12:45:38.383Z",
+  "domaine": "Data & IA",
+  "url": "https://recrute.francetravail.org/Pages/Offre/detailoffre.aspx?idOffre=90734&idOrigine=502&LCID=1036&offerReference=2026-90734"
+ },
+ {
+  "id": "6ad937212b0b33f74bce1a35",
+  "entreprise": "MARCO VASCO",
+  "poste": "Chef de Projet Digital et Innovation H/F",
+  "lieu": "75001 Paris",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 24,
+  "publie": "2026-10-21T10:17:22.000Z",
+  "expiration": "2026-12-21T10:17:22.000Z",
+  "domaine": "Gestion de projet & produit",
+  "url": "https://r.holeest.com/redirect?jd_token=Ahbhdm&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84655531.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84655531"
  },
  {
   "id": "6ad7791e04d39aae9b87130c",
@@ -120,18 +132,6 @@
   "url": "https://r.holeest.com/redirect?jd_token=pJ4gnI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80260796.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D80260796"
  },
  {
-  "id": "6ad3f11ecc1761c8ae02d7f7",
-  "entreprise": "GROUPE PASTEUR MUTUALITE ACTION SOCIALE",
-  "poste": "Engineer - IA Générative & Agents IA - Alternance H/F",
-  "lieu": "75001 Paris",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-16T20:05:00.000Z",
-  "expiration": "2026-12-16T20:05:00.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=ygfp5j&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84529371.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84529371"
- },
- {
   "id": "6ad6972ee2d92300cfde6abe",
   "entreprise": "",
   "poste": "Alternant Python Developer - Web Scraping & Data Collection (H/F)",
@@ -190,18 +190,6 @@
   "expiration": "2026-12-15T04:41:32.000Z",
   "domaine": "Gestion de projet & produit",
   "url": "https://r.holeest.com/redirect?jd_token=wqGLhJ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83338875.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D83338875"
- },
- {
-  "id": "6acfbfcb90c8b2bfc0529f10",
-  "entreprise": "MAKSEB SOLUTIONS",
-  "poste": "Chef de projet digital & Administrateur CRM / Process — Alternance (F/H)",
-  "lieu": "39 RUE HENRI GAUTIER 93000 BOBIGNY",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": 24,
-  "publie": "2026-10-14T17:45:47.369Z",
-  "expiration": "2026-12-14T00:00:00.000Z",
-  "domaine": "Gestion de projet & produit",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6acfbfcb90c8b2bfc0529f10/chef-cheffe-de-projet-communication-digitale"
  },
  {
   "id": "6ad14d12eb0b1e6ac91f784c",
