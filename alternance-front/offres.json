@@ -1,39 +1,51 @@
 [
  {
-  "id": "6ad8d77a89b32213e2c3a0d3",
-  "entreprise": "LELITES PARTICIPATIONS",
-  "poste": "Technicien / Technicienne informatique",
-  "lieu": "45 ROUTE NATIONALE 10 78310 COIGNIERES",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": 12,
-  "publie": "2026-10-21T15:17:14.227Z",
-  "expiration": "2026-12-21T00:00:00.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ad8d77a89b32213e2c3a0d3/technicien-technicienne-informatique"
- },
- {
-  "id": "6ad93ae32b0b33f74bce64bd",
-  "entreprise": "FRANCE TRAVAIL",
-  "poste": "Apprentissage - chargé.e d'analyse de données de pilotage",
-  "lieu": "75020 Paris 20e Arrondissement",
+  "id": "6ada88bdd61b4915a03dcb0b",
+  "entreprise": "CARREFOUR HYPERMARCHES",
+  "poste": "Carrefour Links Chef de Projet Data - Alternance H/F",
+  "lieu": "91300 Massy",
   "contrat": "Apprentissage, Professionnalisation",
   "duree": null,
-  "publie": "2026-10-21T12:45:38.383Z",
-  "expiration": "2026-12-20T12:45:38.383Z",
+  "publie": "2026-10-22T17:13:47.000Z",
+  "expiration": "2026-12-22T17:13:47.000Z",
   "domaine": "Data & IA",
-  "url": "https://recrute.francetravail.org/Pages/Offre/detailoffre.aspx?idOffre=90734&idOrigine=502&LCID=1036&offerReference=2026-90734"
+  "url": "https://r.holeest.com/redirect?jd_token=ALeeuo&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84711906.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84711906"
  },
  {
-  "id": "6ad937212b0b33f74bce1a35",
+  "id": "6ada87671965492bdb882190",
+  "entreprise": "Direction générale des douanes et droits indirects",
+  "poste": "\"Data analyst\" chargé(e) du traitement des données au sein du Pôle performance de la Douane",
+  "lieu": "93100 Montreuil",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-10-22T13:08:18.000Z",
+  "expiration": "2027-01-14T23:00:00.000Z",
+  "domaine": "Data & IA",
+  "url": "https://www.pass.fonction-publique.gouv.fr/offre/data-analyst-chargee-du-traitement-des-donnees-au-sein-du-pole-performance-de-la-douane"
+ },
+ {
+  "id": "6ada87671965492bdb882192",
+  "entreprise": "Établissement Public du Château",
+  "poste": "Apprenti Service informatique (H/F)",
+  "lieu": "78000 Versailles",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-10-22T10:42:51.000Z",
+  "expiration": "2027-01-14T23:00:00.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprenti-service-informatique-hf-1"
+ },
+ {
+  "id": "6ada8926d61b4915a03de351",
   "entreprise": "MARCO VASCO",
-  "poste": "Chef de Projet Digital et Innovation H/F",
-  "lieu": "75001 Paris",
+  "poste": "Chef de projet Digital et Innovation F/H",
+  "lieu": "75015 Paris 15e Arrondissement",
   "contrat": "Apprentissage, Professionnalisation",
-  "duree": 24,
-  "publie": "2026-10-21T10:17:22.000Z",
-  "expiration": "2026-12-21T10:17:22.000Z",
+  "duree": null,
+  "publie": "2026-10-21T10:16:13.000Z",
+  "expiration": "2026-12-21T10:16:13.000Z",
   "domaine": "Gestion de projet & produit",
-  "url": "https://r.holeest.com/redirect?jd_token=Ahbhdm&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84655531.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84655531"
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ada8926d61b4915a03de351/chef-de-projet-digital-et-innovation-f-h"
  },
  {
   "id": "6ad7791e04d39aae9b87130c",
@@ -70,6 +82,18 @@
   "expiration": "2026-12-18T22:00:59.000Z",
   "domaine": "Gestion de projet & produit",
   "url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/paris/alternance-chargé-d-opérations-maîtrise-d-ouvrage-h-f-999926934"
+ },
+ {
+  "id": "6a5e9da59e972c0713e4a2fd",
+  "entreprise": "ASSOCIATION DE PROTECTION SOCIALE DU BATIMENT ET DES TRAVAUX PUBLICS PRO BTP",
+  "poste": "Alternance - Chargé de Pilotage Data H/F",
+  "lieu": "92170 Vanves",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-19T20:48:00.000Z",
+  "expiration": "2026-12-19T20:48:00.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=AGLxLZ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81466559.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bproduction%26utm_content%3Dfluxbonnealternance%26utm_term%3D81466559"
  },
  {
   "id": "6aa1d8d40d35903fc267c44d",
@@ -264,30 +288,6 @@
   "url": "http://app.mytalentplug.com/redirection.aspx?ojid=wdTpEp74oxllneLEC2th4Q=="
  },
  {
-  "id": "6ad14d12eb0b1e6ac91f784a",
-  "entreprise": "Orange SA",
-  "poste": "Stage - Product Manager GenAI en immersion chez Orange Innovation F/H",
-  "lieu": "92320 Châtillon",
-  "contrat": "Apprentissage",
-  "duree": 6,
-  "publie": "2026-10-14T12:55:27.000Z",
-  "expiration": "2026-12-14T12:55:27.000Z",
-  "domaine": "Gestion de projet & produit",
-  "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179592390W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export"
- },
- {
-  "id": "6acffc840bdf06aea2985e13",
-  "entreprise": "BERTRAND FRANCHISE CORP.",
-  "poste": "Alternance Assistant Chef de Projet Digital & Produit H/F",
-  "lieu": "92300 Levallois-Perret",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": 24,
-  "publie": "2026-10-14T10:20:39.000Z",
-  "expiration": "2026-12-14T10:20:39.000Z",
-  "domaine": "Gestion de projet & produit",
-  "url": "https://r.holeest.com/redirect?jd_token=wRwwiN&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84428409.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84428409"
- },
- {
   "id": "6aceae330226c9bf000934e2",
   "entreprise": "Link Consulting",
   "poste": "Tech Lead C# React (H/F) (Link Consulting)",
@@ -298,54 +298,6 @@
   "expiration": "2026-12-13T21:00:54.219Z",
   "domaine": "Développement",
   "url": "https://jobaffinity.fr/apply/0lb3gjvr3vizneafs3?src=FranceTravail%20API"
- },
- {
-  "id": "6ace427566f2a3ca60c99caf",
-  "entreprise": "INFLIGHT SALES GROUP (EUROPE) SAS",
-  "poste": "Spécialiste support technique informatique",
-  "lieu": "3 RUE DES FRERES THONET  94450 LIMEIL-BREVANNES",
-  "contrat": "Apprentissage",
-  "duree": 24,
-  "publie": "2026-10-13T14:38:45.930Z",
-  "expiration": "2026-12-20T00:00:00.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ace427566f2a3ca60c99caf/spécialiste-support-technique-informatique"
- },
- {
-  "id": "6acffcb00bdf06aea29867e8",
-  "entreprise": "GROUPE LA FRANCAISE",
-  "poste": "Alternance - Webmaster H/F",
-  "lieu": "75001 Paris",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-13T11:58:25.000Z",
-  "expiration": "2026-12-13T11:58:25.000Z",
-  "domaine": "Développement",
-  "url": "https://r.holeest.com/redirect?jd_token=wKbiey&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84392419.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84392419"
- },
- {
-  "id": "6acffbb3acb36392aba906e0",
-  "entreprise": "INSTITUT FRANCAIS",
-  "poste": "Alternance/Apprentissage - Technicien informatique F/H",
-  "lieu": "75011 Paris 11e Arrondissement",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-13T09:08:34.000Z",
-  "expiration": "2026-12-13T09:08:34.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179566813W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export"
- },
- {
-  "id": "6acdebc3d37fcd71a1e9d27d",
-  "entreprise": "GIE ALLIANCE GESTION",
-  "poste": "CHARGE DE PROGRAMMATION FAR H/F (Alternance)",
-  "lieu": "75011 Paris 11e Arrondissement",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-13T08:28:51.431Z",
-  "expiration": "2026-11-12T09:11:51.000Z",
-  "domaine": "Développement",
-  "url": "https://api.mytalentplug.com/job/v1/joboffer/redirect?id=ec8ab2cb-d2f6-45c7-9eb2-af68d19e28b0"
  },
  {
   "id": "6aceab51bd527d1b3c35e913",
@@ -394,18 +346,6 @@
   "expiration": "2026-12-11T20:07:01.000Z",
   "domaine": "Systèmes, réseaux & support",
   "url": "https://r.holeest.com/redirect?jd_token=pJbIi7&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83282282.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83282282"
- },
- {
-  "id": "6aa32a530d35903fc26895c6",
-  "entreprise": "GENERALI VIE",
-  "poste": "Alt - Technicien Informatique H/F",
-  "lieu": "93200 Saint-Denis",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": 18,
-  "publie": "2026-10-10T20:08:26.000Z",
-  "expiration": "2026-12-10T20:08:26.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://r.holeest.com/redirect?jd_token=pGWF0M&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83255720.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83255720"
  },
  {
   "id": "6ac8128b9b5d06564c463594",
@@ -468,18 +408,6 @@
   "url": "https://candidat.francetravail.fr/offres/recherche/detail/214XXXM"
  },
  {
-  "id": "6ac4222732e88690a891c425",
-  "entreprise": "Alcatel Submarine Networks",
-  "poste": "PROJECT MANAGEMENT OFFICE IS&IT - PMO OUTILS F/H - Alcatel Submarine Networks",
-  "lieu": "91940 Les Ulis",
-  "contrat": "Professionnalisation",
-  "duree": 12,
-  "publie": "2026-10-05T17:42:18.047Z",
-  "expiration": "2026-12-05T17:42:18.047Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://careers.werecruit.io/fr/alcatel-submarine-networks/offres/project-management-office-isit---pmo-outils-3eea26?utm_source=francetravail&utm_medium=job-board"
- },
- {
   "id": "6ac56f72fa4d6209ee4dec04",
   "entreprise": "MAC LANE COMMUNICATIONS",
   "poste": "Alternant(e) technicien(ne) informatique – Transferts et maintenance informatique (H/F)",
@@ -538,18 +466,6 @@
   "expiration": "2026-11-25T15:29:18.166Z",
   "domaine": "Data & IA",
   "url": "https://mayoly-spindler.softy.pro/offre/221812?idt=5&h=2218120"
- },
- {
-  "id": "6ab5a2477caaafd3f597841e",
-  "entreprise": "Direction des Systèmes d'Information - DSI",
-  "poste": "Apprenti.e en Développement Logiciel H-F (H/F)",
-  "lieu": "94000 Créteil",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-09-24T04:31:42.704Z",
-  "expiration": "2026-11-24T04:31:42.704Z",
-  "domaine": "Développement",
-  "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/4v7o3cn9l68/apprenti-e-en-developpement-logiciel-h-f"
  },
  {
   "id": "6ab4509c7caaafd3f597152c",
