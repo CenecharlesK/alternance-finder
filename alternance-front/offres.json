@@ -1,5 +1,65 @@
 [
  {
+  "id": "6adbdcf7bfbdb64c1a67fc99",
+  "entreprise": "ALTER SI",
+  "poste": "STAGE FIN D'ETUDE OU ALTERNANCE STAGE : CONSULtant BI (H/F)",
+  "lieu": "75001 Paris",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-10-23T18:32:03.497Z",
+  "expiration": "2026-12-23T18:32:03.497Z",
+  "domaine": "Data & IA",
+  "url": "https://jobs.makesense.org/fr/jobs/alter-si-stage-fin-detude-ou-alternance-stage-consultante-bi-hf-kc4dhdaB0wRSBbXO7ycn?source=france_travail"
+ },
+ {
+  "id": "6adbdcf7bfbdb64c1a67fcad",
+  "entreprise": "HOLIS",
+  "poste": "Data Analyst / Scientist - Startup à impact  (H/F)",
+  "lieu": "75001 Paris",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-10-23T18:31:46.076Z",
+  "expiration": "2026-12-23T18:31:46.076Z",
+  "domaine": "Data & IA",
+  "url": "https://jobs.makesense.org/fr/jobs/holis-data-analyst-scientist-startup-a-impact-ynnY0fGqKDP1kM2UdGIE?source=france_travail"
+ },
+ {
+  "id": "6adbda05ec4f5594ab3cccac",
+  "entreprise": "MANUFACTURE FRANCAISE DES PNEUMATIQUES MICHELIN",
+  "poste": "Alternance - Data Engineer Michelin Guide H/F",
+  "lieu": "92100 Boulogne-Billancourt",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 12,
+  "publie": "2026-10-23T12:05:30.000Z",
+  "expiration": "2026-12-23T12:05:30.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=AXwoL3&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84745540.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84745540"
+ },
+ {
+  "id": "6adbda04ec4f5594ab3ccc3d",
+  "entreprise": "MANUFACTURE FRANCAISE DES PNEUMATIQUES MICHELIN",
+  "poste": "Alternance - Data Engineer Michelin Guide H/F",
+  "lieu": "92100 Boulogne-Billancourt",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 12,
+  "publie": "2026-10-23T12:04:37.000Z",
+  "expiration": "2026-12-23T12:04:37.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=AXvpt9&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84745442.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84745442"
+ },
+ {
+  "id": "6adbd8e3ec4f5594ab3c8a4c",
+  "entreprise": "MINISTERE DE LA CULTURE",
+  "poste": "Apprenti Service informatique (H/F)",
+  "lieu": "78000 Versailles",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-22T22:22:40.000Z",
+  "expiration": "2026-12-21T22:22:40.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/versailles/apprenti-service-informatique-h-f-367115210"
+ },
+ {
   "id": "6ada88bdd61b4915a03dcb0b",
   "entreprise": "CARREFOUR HYPERMARCHES",
   "poste": "Carrefour Links Chef de Projet Data - Alternance H/F",
@@ -22,18 +82,6 @@
   "expiration": "2027-01-14T23:00:00.000Z",
   "domaine": "Data & IA",
   "url": "https://www.pass.fonction-publique.gouv.fr/offre/data-analyst-chargee-du-traitement-des-donnees-au-sein-du-pole-performance-de-la-douane"
- },
- {
-  "id": "6ada87671965492bdb882192",
-  "entreprise": "Établissement Public du Château",
-  "poste": "Apprenti Service informatique (H/F)",
-  "lieu": "78000 Versailles",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-22T10:42:51.000Z",
-  "expiration": "2027-01-14T23:00:00.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprenti-service-informatique-hf-1"
  },
  {
   "id": "6ada8926d61b4915a03de351",
@@ -168,18 +216,6 @@
   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215HVRN"
  },
  {
-  "id": "6ad14ce7eb0b1e6ac91f775b",
-  "entreprise": "Direction Centrale du Service de Santé des Armées",
-  "poste": "APPRENTIE CHEF DE PROJET TRANSFORMATION NUMÉRIQUE & IA",
-  "lieu": "94160 Saint-Mandé",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-15T16:11:05.000Z",
-  "expiration": "2026-12-14T22:00:00.000Z",
-  "domaine": "Data & IA",
-  "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentie-chef-de-projet-transformation-numerique-ia"
- },
- {
   "id": "6ad14e4418139f73ced8aa2c",
   "entreprise": "BOUYGUES CONSTRUCTION",
   "poste": "Alternance - Analyste Power Bi H/F",
@@ -204,18 +240,6 @@
   "url": "https://www.pass.fonction-publique.gouv.fr/offre/ingenieur-de-la-connaissance-et-pilotage-projets-donnees"
  },
  {
-  "id": "6aa870069dceff7dd4b8a002",
-  "entreprise": "RATP CAP ATELIERS CHAMPIONNET",
-  "poste": "Alternant Assistant Chef de Projet AMOA H/F",
-  "lieu": "75001 Paris",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-15T04:41:32.000Z",
-  "expiration": "2026-12-15T04:41:32.000Z",
-  "domaine": "Gestion de projet & produit",
-  "url": "https://r.holeest.com/redirect?jd_token=wqGLhJ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83338875.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D83338875"
- },
- {
   "id": "6ad14d12eb0b1e6ac91f784c",
   "entreprise": "AUBER TECH",
   "poste": "ALTERNANT(E) INGÉNIEUR(E) D'AFFAIRES IT F/H",
@@ -226,54 +250,6 @@
   "expiration": "2026-12-14T17:22:43.000Z",
   "domaine": "Systèmes, réseaux & support",
   "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179593779W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export"
- },
- {
-  "id": "6acfa87522ce23a2ad444471",
-  "entreprise": "SOLOCAL",
-  "poste": "[Alternance] Data Analyst",
-  "lieu": "92100 Boulogne-Billancourt",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-14T16:11:23.969Z",
-  "expiration": "2026-11-18T16:29:37.000Z",
-  "domaine": "Data & IA",
-  "url": "https://www.directemploi.com/candidatOffre/55763504?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance"
- },
- {
-  "id": "6acfa86a22ce23a2ad44445f",
-  "entreprise": "CELIO FRANCE",
-  "poste": "Business Analyst SAP Retail - Alternance F/H",
-  "lieu": "93400 Saint-Ouen-sur-Seine",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-14T16:06:02.631Z",
-  "expiration": "2026-11-13T16:59:58.000Z",
-  "domaine": "Gestion de projet & produit",
-  "url": "https://www.directemploi.com/candidatOffre/55704625?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance"
- },
- {
-  "id": "6acfa7b8eb1fb948b46aba57",
-  "entreprise": "ELECTRICITE DE FRANCE",
-  "poste": "ALTERNANCE - Ingénieur Automatisme et Informatique Industrielle H/F",
-  "lieu": "92400 Courbevoie",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-14T16:03:04.419Z",
-  "expiration": "2026-11-13T16:59:58.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://www.directemploi.com/candidatOffre/54921410?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance"
- },
- {
-  "id": "6acfa75522ce23a2ad444319",
-  "entreprise": "ELECTRICITE DE FRANCE",
-  "poste": "Alternance - Ingénieur Excellence Opérationnelle & Data F/H",
-  "lieu": "22 Avenue de Wagram 75008 Paris",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-14T16:01:25.413Z",
-  "expiration": "2026-11-13T16:59:58.000Z",
-  "domaine": "Data & IA",
-  "url": "https://www.directemploi.com/candidatOffre/54396287?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance"
  },
  {
   "id": "6acfff94fcd49a2239d8363e",
@@ -348,16 +324,16 @@
   "url": "https://r.holeest.com/redirect?jd_token=pJbIi7&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83282282.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83282282"
  },
  {
-  "id": "6ac8128b9b5d06564c463594",
-  "entreprise": "FONDS MONDIAL POUR LA NATURE FRANCE",
-  "poste": "Assistant data & CRM (F/H) - Alternance",
-  "lieu": "93310 Le Pré-Saint-Gervais",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-08T13:52:06.000Z",
-  "expiration": "2026-12-07T13:52:06.000Z",
+  "id": "6adbdcf7bfbdb64c1a67fcb2",
+  "entreprise": "ETLB",
+  "poste": "Alternance - Assistant(e) IA / BI (H/F)",
+  "lieu": "75008 Paris 8e Arrondissement",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-10-08T14:56:05.572Z",
+  "expiration": "2026-12-08T14:56:05.572Z",
   "domaine": "Data & IA",
-  "url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/le-pre-saint-gervais/assistant-data-crm-f-h-alternance-259824774"
+  "url": "https://candidat.francetravail.fr/offres/recherche/detail/214YWWX"
  },
  {
   "id": "6ac96846015572e53e599e2a",
@@ -408,18 +384,6 @@
   "url": "https://candidat.francetravail.fr/offres/recherche/detail/214XXXM"
  },
  {
-  "id": "6ac56f72fa4d6209ee4dec04",
-  "entreprise": "MAC LANE COMMUNICATIONS",
-  "poste": "Alternant(e) technicien(ne) informatique – Transferts et maintenance informatique (H/F)",
-  "lieu": "Allée des Yvelines 78190 Trappes",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": 12,
-  "publie": "2026-10-05T14:57:54.000Z",
-  "expiration": "2026-12-05T14:57:54.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://annoncesatlas.opco-atlas.fr/jobads/114152?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance"
- },
- {
   "id": "6a99f014b7a03ff3606ecd2a",
   "entreprise": "HELLOWORK",
   "poste": "Alternance - Transformation Digitale et IA H/F",
@@ -466,18 +430,6 @@
   "expiration": "2026-11-25T15:29:18.166Z",
   "domaine": "Data & IA",
   "url": "https://mayoly-spindler.softy.pro/offre/221812?idt=5&h=2218120"
- },
- {
-  "id": "6ab4509c7caaafd3f597152c",
-  "entreprise": "COVAGE INFRA",
-  "poste": "Alternant Technicien Support Client (H/F)",
-  "lieu": "92400 Courbevoie",
-  "contrat": "Apprentissage",
-  "duree": 24,
-  "publie": "2026-09-23T16:34:26.791Z",
-  "expiration": "2026-11-23T16:34:26.791Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://candidat.francetravail.fr/offres/recherche/detail/214HSBG"
  },
  {
   "id": "6ab59db9a512a270b8a77111",
