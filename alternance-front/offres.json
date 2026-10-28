@@ -1,5 +1,41 @@
 [
  {
+  "id": "6ae0c23a149b034bd055832b",
+  "entreprise": "CORTEX IT",
+  "poste": "Chargé de recrutement IT",
+  "lieu": "6 RUE D'ARMAILLE 75017 PARIS",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-10-27T15:24:42.027Z",
+  "expiration": "2026-12-27T00:00:00.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae0c23a149b034bd055832b/chargé-de-recrutement-it"
+ },
+ {
+  "id": "6ae12d091b7811ea8d92c33d",
+  "entreprise": "Direction générale du trésor",
+  "poste": "Apprenti(e) Ingénieur(e) système, réseaux et DevOps",
+  "lieu": "75012 Paris 12e Arrondissement",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-10-27T13:56:22.000Z",
+  "expiration": "2027-01-14T23:00:00.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentie-ingenieure-systeme-reseaux-et-devops-1"
+ },
+ {
+  "id": "6aa86fa79dceff7dd4b88a5b",
+  "entreprise": "ELIOR PARTICIPATIONS",
+  "poste": "Chargé Power Bi - Alternance H/F",
+  "lieu": "94000 Créteil",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-26T22:33:17.000Z",
+  "expiration": "2026-12-26T22:33:17.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=pJbImT&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81727569.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D81727569"
+ },
+ {
   "id": "6adfdb771b7811ea8d92791c",
   "entreprise": "Secrétariat Général - Ministère de la Justice",
   "poste": "Alternance – Chef.fe de produit Intelligence Artificielle (Product manager)",
@@ -12,16 +48,16 @@
   "url": "https://www.pass.fonction-publique.gouv.fr/offre/alternance-cheffe-de-produit-intelligence-artificielle-product-manager"
  },
  {
-  "id": "6adfdc92ec4f5594ab3ea2f5",
-  "entreprise": "GROUPE LA FRANCAISE",
-  "poste": "Alternant - Chargée de Projet Intelligence Artificielle IA H/F",
-  "lieu": "75001 Paris",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-26T14:04:26.000Z",
-  "expiration": "2026-12-26T14:04:26.000Z",
+  "id": "6adf4e52149b034bd0549f22",
+  "entreprise": "KOMETA CONSULTING",
+  "poste": "Développeur / Développeuse IA",
+  "lieu": "52 TER QUAI DE SEINE 95530 FRETTE SUR SEINE (LA)",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-10-26T12:57:54.807Z",
+  "expiration": "2026-12-28T00:00:00.000Z",
   "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=BoizKM&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84805143.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D84805143"
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6adf4e52149b034bd0549f22/développeur-développeuse-ia"
  },
  {
   "id": "6adfdf5abfbdb64c1a6935aa",
@@ -120,30 +156,6 @@
   "url": "https://r.holeest.com/redirect?jd_token=ALeeuo&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84711906.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84711906"
  },
  {
-  "id": "6ada87671965492bdb882190",
-  "entreprise": "Direction générale des douanes et droits indirects",
-  "poste": "\"Data analyst\" chargé(e) du traitement des données au sein du Pôle performance de la Douane",
-  "lieu": "93100 Montreuil",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-22T13:08:18.000Z",
-  "expiration": "2027-01-14T23:00:00.000Z",
-  "domaine": "Data & IA",
-  "url": "https://www.pass.fonction-publique.gouv.fr/offre/data-analyst-chargee-du-traitement-des-donnees-au-sein-du-pole-performance-de-la-douane"
- },
- {
-  "id": "6ada8926d61b4915a03de351",
-  "entreprise": "MARCO VASCO",
-  "poste": "Chef de projet Digital et Innovation F/H",
-  "lieu": "75015 Paris 15e Arrondissement",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-21T10:16:13.000Z",
-  "expiration": "2026-12-21T10:16:13.000Z",
-  "domaine": "Gestion de projet & produit",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ada8926d61b4915a03de351/chef-de-projet-digital-et-innovation-f-h"
- },
- {
   "id": "6ad7791e04d39aae9b87130c",
   "entreprise": "SAS WOODOO",
   "poste": "ALTERNANCE - Développeur·se Full Stack – Industrie 4.0 (H/F)",
@@ -240,18 +252,6 @@
   "url": "https://r.holeest.com/redirect?jd_token=pJ4gnI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80260796.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D80260796"
  },
  {
-  "id": "6ad6972ee2d92300cfde6abe",
-  "entreprise": "",
-  "poste": "Alternant Python Developer - Web Scraping & Data Collection (H/F)",
-  "lieu": "75004 Paris 4e Arrondissement",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-16T12:57:28.224Z",
-  "expiration": "2026-12-16T12:57:28.224Z",
-  "domaine": "Data & IA",
-  "url": "https://candidat.francetravail.fr/offres/recherche/detail/215HVRN"
- },
- {
   "id": "6ad14e4418139f73ced8aa2c",
   "entreprise": "BOUYGUES CONSTRUCTION",
   "poste": "Alternance - Analyste Power Bi H/F",
@@ -262,18 +262,6 @@
   "expiration": "2026-12-15T12:37:46.000Z",
   "domaine": "Data & IA",
   "url": "https://r.holeest.com/redirect?jd_token=xsJqZI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84469541.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84469541"
- },
- {
-  "id": "6ad14ce7eb0b1e6ac91f775c",
-  "entreprise": "Commissariat au Numérique de Défense",
-  "poste": "INGENIEUR DE LA CONNAISSANCE ET PILOTAGE PROJETS DONNEES",
-  "lieu": "75015 Paris 15e Arrondissement",
-  "contrat": "Apprentissage",
-  "duree": 24,
-  "publie": "2026-10-15T09:24:59.000Z",
-  "expiration": "2027-03-14T23:00:00.000Z",
-  "domaine": "Data & IA",
-  "url": "https://www.pass.fonction-publique.gouv.fr/offre/ingenieur-de-la-connaissance-et-pilotage-projets-donnees"
  },
  {
   "id": "6ad14d12eb0b1e6ac91f784c",
@@ -298,18 +286,6 @@
   "expiration": "2026-12-14T14:35:27.148Z",
   "domaine": "Systèmes, réseaux & support",
   "url": "http://app.mytalentplug.com/redirection.aspx?ojid=wdTpEp74oxllneLEC2th4Q=="
- },
- {
-  "id": "6aceae330226c9bf000934e2",
-  "entreprise": "Link Consulting",
-  "poste": "Tech Lead C# React (H/F) (Link Consulting)",
-  "lieu": "75001 Paris",
-  "contrat": "Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-13T21:00:54.219Z",
-  "expiration": "2026-12-13T21:00:54.219Z",
-  "domaine": "Développement",
-  "url": "https://jobaffinity.fr/apply/0lb3gjvr3vizneafs3?src=FranceTravail%20API"
  },
  {
   "id": "6aceab51bd527d1b3c35e913",
@@ -454,18 +430,6 @@
   "expiration": "2026-12-01T20:07:18.000Z",
   "domaine": "Data & IA",
   "url": "https://r.holeest.com/redirect?jd_token=pJ64Wd&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82911204.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D82911204"
- },
- {
-  "id": "6aa86fa79dceff7dd4b88a5b",
-  "entreprise": "ELIOR PARTICIPATIONS",
-  "poste": "Chargé Power Bi - Alternance H/F",
-  "lieu": "94000 Créteil",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-09-26T20:09:20.000Z",
-  "expiration": "2026-11-26T20:09:20.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=pJbImT&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81727569.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D81727569"
  },
  {
   "id": "6ad696a2e2d92300cfde48af",
