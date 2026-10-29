@@ -1,5 +1,53 @@
 [
  {
+  "id": "6ae311e4149b034bd056d8c1",
+  "entreprise": "MINISTERE DES ARMEES",
+  "poste": "INGENIEUR DE LA CONNAISSANCE ET PILOTAGE PROJETS DONNEES",
+  "lieu": "14 RUE SAINT-DOMINIQUE 75007 PARIS",
+  "contrat": "Apprentissage",
+  "duree": 24,
+  "publie": "2026-10-29T09:29:08.445Z",
+  "expiration": "2026-12-29T00:00:00.000Z",
+  "domaine": "Data & IA",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae311e4149b034bd056d8c1/ingenieur-de-la-connaissance-et-pilotage-projets-donnees"
+ },
+ {
+  "id": "6ae282a8bfbdb64c1a6a0954",
+  "entreprise": "Inserm",
+  "poste": "APPRENTI INGÉNIEUR INFORMATIQUE - H/F",
+  "lieu": "75015 Paris 15e Arrondissement",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-10-28T19:36:04.943Z",
+  "expiration": "2026-12-28T19:36:04.943Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://inserm.softy.pro/offre/212913?idt=5&h=2129130"
+ },
+ {
+  "id": "6ae27faaec4f5594ab3fbd11",
+  "entreprise": "CAPGEMINI",
+  "poste": "Data Business Analyste Confirmé H/F",
+  "lieu": "92130 Issy-les-Moulineaux",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 24,
+  "publie": "2026-10-28T18:05:13.000Z",
+  "expiration": "2026-12-28T18:05:13.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=BTunDp&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84912582.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84912582"
+ },
+ {
+  "id": "6ae204b9149b034bd0564da4",
+  "entreprise": "BEMING",
+  "poste": "ALTERNANT — INTELLIGENCE ARTIFICIELLE ET AUTOMATISATION DES MÉTIERS",
+  "lieu": "3 AVENUE DE LA BALTIQUE 91140 VILLEBON-SUR-YVETTE",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-10-28T14:20:41.446Z",
+  "expiration": "2026-12-28T00:00:00.000Z",
+  "domaine": "Data & IA",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae204b9149b034bd0564da4/alternant-intelligence-artificielle-et-automatisation-des-métiers"
+ },
+ {
   "id": "6ae0c23a149b034bd055832b",
   "entreprise": "CORTEX IT",
   "poste": "Chargé de recrutement IT",
@@ -22,6 +70,138 @@
   "expiration": "2027-01-14T23:00:00.000Z",
   "domaine": "Systèmes, réseaux & support",
   "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentie-ingenieure-systeme-reseaux-et-devops-1"
+ },
+ {
+  "id": "6ae28012ec4f5594ab3fd462",
+  "entreprise": "REDSUP",
+  "poste": "Ingénieur Cybersécurité (H/F) - Alternance",
+  "lieu": "92110 Clichy",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-27T12:50:28.000Z",
+  "expiration": "2026-12-27T12:50:28.000Z",
+  "domaine": "Cybersécurité",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd462/ingénieur-cybersécurité-h-f-alternance"
+ },
+ {
+  "id": "6ae28012ec4f5594ab3fd463",
+  "entreprise": "REDSUP",
+  "poste": "Spécialiste en Conception et Déploiement de Solutions IA (H/F) – Alternance",
+  "lieu": "92110 Clichy",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-27T12:50:22.000Z",
+  "expiration": "2026-12-27T12:50:22.000Z",
+  "domaine": "Data & IA",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd463/spécialiste-en-conception-et-déploiement-de-solutions-ia-h-f-alternance"
+ },
+ {
+  "id": "6ae28012ec4f5594ab3fd464",
+  "entreprise": "REDSUP",
+  "poste": "Technicien Systèmes et Réseaux (H/F) – Alternance",
+  "lieu": "92110 Clichy",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-27T12:50:18.000Z",
+  "expiration": "2026-12-27T12:50:18.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd464/technicien-systèmes-et-réseaux-h-f-alternance"
+ },
+ {
+  "id": "6ae28012ec4f5594ab3fd465",
+  "entreprise": "REDSUP",
+  "poste": "Technicien Réseaux",
+  "lieu": "92110 Clichy",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-27T12:50:15.000Z",
+  "expiration": "2026-12-27T12:50:15.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd465/technicien-réseaux"
+ },
+ {
+  "id": "6ae28012ec4f5594ab3fd467",
+  "entreprise": "REDSUP",
+  "poste": "Administrateur Réseaux (H/F) – Alternance",
+  "lieu": "92110 Clichy",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-27T12:50:07.000Z",
+  "expiration": "2026-12-27T12:50:07.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd467/administrateur-réseaux-h-f-alternance"
+ },
+ {
+  "id": "6ae28012ec4f5594ab3fd468",
+  "entreprise": "REDSUP",
+  "poste": "Ingénieur Cybersécurité (H/F) – Alternance",
+  "lieu": "92110 Clichy",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-27T12:50:02.000Z",
+  "expiration": "2026-12-27T12:50:02.000Z",
+  "domaine": "Cybersécurité",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd468/ingénieur-cybersécurité-h-f-alternance"
+ },
+ {
+  "id": "6ae28012ec4f5594ab3fd469",
+  "entreprise": "REDSUP",
+  "poste": "Administrateur Cloud & DevSecOps (H/F) – Alternance",
+  "lieu": "92110 Clichy",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-27T12:49:59.000Z",
+  "expiration": "2026-12-27T12:49:59.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd469/administrateur-cloud-amp-dev-sec-ops-h-f-alternance"
+ },
+ {
+  "id": "6ae28012ec4f5594ab3fd46a",
+  "entreprise": "REDSUP",
+  "poste": "Administrateur Cloud & DevSecOps (H/F) – Alternance",
+  "lieu": "92110 Clichy",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-27T12:49:54.000Z",
+  "expiration": "2026-12-27T12:49:54.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd46a/administrateur-cloud-amp-dev-sec-ops-h-f-alternance"
+ },
+ {
+  "id": "6ae28012ec4f5594ab3fd46b",
+  "entreprise": "REDSUP",
+  "poste": "Technicien Support IT & Cybersécurité (H/F) – Alternance",
+  "lieu": "92110 Clichy",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-27T12:49:45.000Z",
+  "expiration": "2026-12-27T12:49:45.000Z",
+  "domaine": "Cybersécurité",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd46b/technicien-support-it-amp-cybersécurité-h-f-alternance"
+ },
+ {
+  "id": "6ae28012ec4f5594ab3fd46c",
+  "entreprise": "REDSUP",
+  "poste": "Technicien Support IT & Cybersécurité (H/F) – Alternance",
+  "lieu": "92110 Clichy",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-27T12:49:41.000Z",
+  "expiration": "2026-12-27T12:49:41.000Z",
+  "domaine": "Cybersécurité",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd46c/technicien-support-it-amp-cybersécurité-h-f-alternance"
+ },
+ {
+  "id": "6ae28012ec4f5594ab3fd46d",
+  "entreprise": "REDSUP",
+  "poste": "Spécialiste en Conception et Déploiement de Solutions IA (H/F) – Alternance",
+  "lieu": "92110 Clichy",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-27T12:49:38.000Z",
+  "expiration": "2026-12-27T12:49:38.000Z",
+  "domaine": "Data & IA",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd46d/spécialiste-en-conception-et-déploiement-de-solutions-ia-h-f-alternance"
  },
  {
   "id": "6aa86fa79dceff7dd4b88a5b",
@@ -48,6 +228,18 @@
   "url": "https://www.pass.fonction-publique.gouv.fr/offre/alternance-cheffe-de-produit-intelligence-artificielle-product-manager"
  },
  {
+  "id": "6adfdc92ec4f5594ab3ea2f5",
+  "entreprise": "GROUPE LA FRANCAISE",
+  "poste": "Alternant - Chargée de Projet Intelligence Artificielle IA H/F",
+  "lieu": "75001 Paris",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-26T14:04:26.000Z",
+  "expiration": "2026-12-26T14:04:26.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=BS6sUT&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84805143.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D84805143"
+ },
+ {
   "id": "6adf4e52149b034bd0549f22",
   "entreprise": "KOMETA CONSULTING",
   "poste": "Développeur / Développeuse IA",
@@ -72,42 +264,6 @@
   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215QYWC"
  },
  {
-  "id": "6adfe01bec4f5594ab3ee8f2",
-  "entreprise": "sapian",
-  "poste": "Alternance / Stage - Chef(fe) de Projet IA & Innovation",
-  "lieu": "92800 Puteaux",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-26T11:27:34.628Z",
-  "expiration": "2026-12-26T11:27:34.628Z",
-  "domaine": "Data & IA",
-  "url": "https://www.meteojob.com/jobs/57715392?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance"
- },
- {
-  "id": "6adfdc90ec4f5594ab3ea27b",
-  "entreprise": "SAPIAN",
-  "poste": "Alternance - Stage - Chef de Projet IA & Innovation H/F",
-  "lieu": "92800 Puteaux",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": 12,
-  "publie": "2026-10-26T10:08:42.000Z",
-  "expiration": "2026-12-26T10:08:42.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=BmjBuo&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84793741.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84793741"
- },
- {
-  "id": "6adfe025ec4f5594ab3eeb1b",
-  "entreprise": "Sapian",
-  "poste": "Alternance / Stage - Chef(fe) de Projet IA & Innovation",
-  "lieu": "31 Place Ronde 92800 Puteaux",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": 12,
-  "publie": "2026-10-26T09:33:42.000Z",
-  "expiration": "2026-12-26T10:00:45.000Z",
-  "domaine": "Data & IA",
-  "url": "https://sapian-recrute.talentview.io/jobs/w88tb5?source=la_bonne_alternance"
- },
- {
   "id": "6a3c574baba467736d4e806c",
   "entreprise": "MUTUELLE GENERALE EDUCATION NATIONALE",
   "poste": "Alternance Data & IA Chargé·e de la Gouvernance des Données H/F",
@@ -118,18 +274,6 @@
   "expiration": "2026-12-25T22:08:26.000Z",
   "domaine": "Data & IA",
   "url": "https://r.holeest.com/redirect?jd_token=pJ64SI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80594082.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80594082"
- },
- {
-  "id": "6ab59ef168233dbb8f6aa0b0",
-  "entreprise": "Elior Group",
-  "poste": "Alternance - Chef de Projet Transformation IA & Processus H/F",
-  "lieu": "94000 Créteil",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": 12,
-  "publie": "2026-10-23T20:11:34.000Z",
-  "expiration": "2026-12-23T20:11:34.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=pJ64Ya&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83677969.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D83677969"
  },
  {
   "id": "6adbd8e3ec4f5594ab3c8a4c",
@@ -204,18 +348,6 @@
   "url": "https://r.holeest.com/redirect?jd_token=z70Hbv&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83201526.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83201526"
  },
  {
-  "id": "6ad545b6ee10726147fd4ac7",
-  "entreprise": "DIOT-SIACI",
-  "poste": "ALTERNANCE - Assistant Informatique RSE H/F",
-  "lieu": "92110 Clichy",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-18T14:35:26.793Z",
-  "expiration": "2026-12-18T14:35:26.793Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "http://app.mytalentplug.com/redirection.aspx?ojid=xDsuSXmHYWueVXVDaurt0w=="
- },
- {
   "id": "6aac64a46b0f1ab1a51ecaa1",
   "entreprise": "Starboost",
   "poste": "Chef de Projet Digital en Alternance H/F",
@@ -264,18 +396,6 @@
   "url": "https://r.holeest.com/redirect?jd_token=xsJqZI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84469541.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84469541"
  },
  {
-  "id": "6ad14d12eb0b1e6ac91f784c",
-  "entreprise": "AUBER TECH",
-  "poste": "ALTERNANT(E) INGÉNIEUR(E) D'AFFAIRES IT F/H",
-  "lieu": "92400 Courbevoie",
-  "contrat": "Apprentissage",
-  "duree": 24,
-  "publie": "2026-10-14T17:22:43.000Z",
-  "expiration": "2026-12-14T17:22:43.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179593779W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export"
- },
- {
   "id": "6acfff94fcd49a2239d8363e",
   "entreprise": "NGE",
   "poste": "STAGE DE FIN D'ETUDES - Ingénieur Systèmes & fluides H/F",
@@ -286,30 +406,6 @@
   "expiration": "2026-12-14T14:35:27.148Z",
   "domaine": "Systèmes, réseaux & support",
   "url": "http://app.mytalentplug.com/redirection.aspx?ojid=wdTpEp74oxllneLEC2th4Q=="
- },
- {
-  "id": "6aceab51bd527d1b3c35e913",
-  "entreprise": "AUTODISTRIBUTION",
-  "poste": "Assistant Product Owner H/F",
-  "lieu": "91380 Chilly-Mazarin",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": 24,
-  "publie": "2026-10-13T07:58:23.000Z",
-  "expiration": "2026-12-13T07:58:23.000Z",
-  "domaine": "Gestion de projet & produit",
-  "url": "https://r.holeest.com/redirect?jd_token=wCWpiZ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84381153.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84381153"
- },
- {
-  "id": "6accfa38314a6665aa22eb62",
-  "entreprise": "CARREFOUR HYPERMARCHES",
-  "poste": "Stagiaire Data Analyst (F/H)",
-  "lieu": "91300 Massy",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": 0,
-  "publie": "2026-10-12T15:18:16.000Z",
-  "expiration": "2026-11-09T15:18:16.000Z",
-  "domaine": "Data & IA",
-  "url": "https://www.aplitrak.com/?adid=Q2FuZGljZS5QYW5ldC40MTE3OS4xMzY4MEBjYXJyZWZvdXIuYXBsaXRyYWsuY29t"
  },
  {
   "id": "6acd5c9b0226c9bf0008d204",
