@@ -1,5 +1,65 @@
 [
  {
+  "id": "6ae3d41dbfbdb64c1a6a76cc",
+  "entreprise": "E.T.A.I.",
+  "poste": "Assistant chef de projet IA et innovation médias (H/F/X)",
+  "lieu": "94250 Gentilly",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-10-29T23:31:47.683Z",
+  "expiration": "2026-12-29T23:31:47.683Z",
+  "domaine": "Data & IA",
+  "url": "https://www.aplitrak.com/?adid=bm9yYS5saGFyb3RpLjEyNDEzLjY3MDZAaW5mb3Byb2RpZ2l0YWwuYXBsaXRyYWsuY29t"
+ },
+ {
+  "id": "6ae3d4d7ec4f5594ab408baa",
+  "entreprise": "REDSUP",
+  "poste": "Ingénieur Cybersécurité (H/F) – Alternance",
+  "lieu": "75001 Paris",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 12,
+  "publie": "2026-10-29T11:49:16.783Z",
+  "expiration": "2026-12-29T11:49:16.783Z",
+  "domaine": "Cybersécurité",
+  "url": "https://www.meteojob.com/jobs/57788058?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance"
+ },
+ {
+  "id": "6ae3d4d7ec4f5594ab408bac",
+  "entreprise": "REDSUP",
+  "poste": "Spécialiste en Conception et Déploiement de Solutions IA (H/F) – Alternance",
+  "lieu": "Paris (75)",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 12,
+  "publie": "2026-10-29T11:49:16.442Z",
+  "expiration": "2026-12-29T11:49:16.442Z",
+  "domaine": "Data & IA",
+  "url": "https://www.meteojob.com/jobs/57788060?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance"
+ },
+ {
+  "id": "6ae3d4d7ec4f5594ab408bae",
+  "entreprise": "REDSUP",
+  "poste": "Technicien Systèmes et Réseaux (H/F) – Alternance",
+  "lieu": "Paris (75)",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 12,
+  "publie": "2026-10-29T11:49:16.030Z",
+  "expiration": "2026-12-29T11:49:16.030Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://www.meteojob.com/jobs/57788062?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance"
+ },
+ {
+  "id": "6ae3d4d7ec4f5594ab408bb0",
+  "entreprise": "REDSUP",
+  "poste": "Administrateur Cloud & DevSecOps (H/F) – Alternance",
+  "lieu": "Paris (75)",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 12,
+  "publie": "2026-10-29T11:49:15.700Z",
+  "expiration": "2026-12-29T11:49:15.700Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://www.meteojob.com/jobs/57788064?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance"
+ },
+ {
   "id": "6ae311e4149b034bd056d8c1",
   "entreprise": "MINISTERE DES ARMEES",
   "poste": "INGENIEUR DE LA CONNAISSANCE ET PILOTAGE PROJETS DONNEES",
@@ -10,6 +70,18 @@
   "expiration": "2026-12-29T00:00:00.000Z",
   "domaine": "Data & IA",
   "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae311e4149b034bd056d8c1/ingenieur-de-la-connaissance-et-pilotage-projets-donnees"
+ },
+ {
+  "id": "6ae3d00eec4f5594ab40085b",
+  "entreprise": "CONVERTEO",
+  "poste": "Consultant Web Analytics H/F - alternance Janvier 2027",
+  "lieu": "75012 Paris 12e Arrondissement",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-29T06:41:37.000Z",
+  "expiration": "2026-12-28T06:41:37.000Z",
+  "domaine": "Développement",
+  "url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/paris/consultant-web-analytics-h-f-alternance-janvier-2027-624801641"
  },
  {
   "id": "6ae282a8bfbdb64c1a6a0954",
@@ -240,18 +312,6 @@
   "url": "https://r.holeest.com/redirect?jd_token=BS6sUT&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84805143.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D84805143"
  },
  {
-  "id": "6adf4e52149b034bd0549f22",
-  "entreprise": "KOMETA CONSULTING",
-  "poste": "Développeur / Développeuse IA",
-  "lieu": "52 TER QUAI DE SEINE 95530 FRETTE SUR SEINE (LA)",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-26T12:57:54.807Z",
-  "expiration": "2026-12-28T00:00:00.000Z",
-  "domaine": "Data & IA",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6adf4e52149b034bd0549f22/développeur-développeuse-ia"
- },
- {
   "id": "6adfdf5abfbdb64c1a6935aa",
   "entreprise": "HENIX",
   "poste": "Coordinateur / Coordinatrice projet en Maîtrise d'Ouvrage (MOA) (H/F)",
@@ -346,42 +406,6 @@
   "expiration": "2026-12-19T20:46:03.000Z",
   "domaine": "Gestion de projet & produit",
   "url": "https://r.holeest.com/redirect?jd_token=z70Hbv&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83201526.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83201526"
- },
- {
-  "id": "6aac64a46b0f1ab1a51ecaa1",
-  "entreprise": "Starboost",
-  "poste": "Chef de Projet Digital en Alternance H/F",
-  "lieu": "75001 Paris",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": 12,
-  "publie": "2026-10-17T20:12:35.000Z",
-  "expiration": "2026-12-17T20:12:35.000Z",
-  "domaine": "Gestion de projet & produit",
-  "url": "https://r.holeest.com/redirect?jd_token=pJ4gor&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83480825.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83480825"
- },
- {
-  "id": "6a84d833dadca948717059e7",
-  "entreprise": "ONET SERVICES",
-  "poste": "Chef de Projet Technique H/F",
-  "lieu": "92400 Courbevoie",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-17T20:09:26.000Z",
-  "expiration": "2026-12-17T20:09:26.000Z",
-  "domaine": "Gestion de projet & produit",
-  "url": "https://r.holeest.com/redirect?jd_token=pJ4gyo&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82362541.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D82362541"
- },
- {
-  "id": "6a346e5c7f27726a04971118",
-  "entreprise": "CMA CGM",
-  "poste": "Alternance - Assistant Chef de Projet Digital Performance H/F",
-  "lieu": "75001 Paris",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-17T20:05:48.000Z",
-  "expiration": "2026-12-17T20:05:48.000Z",
-  "domaine": "Gestion de projet & produit",
-  "url": "https://r.holeest.com/redirect?jd_token=pJ4gnI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80260796.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D80260796"
  },
  {
   "id": "6ad14e4418139f73ced8aa2c",
