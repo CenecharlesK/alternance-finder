@@ -1,5 +1,17 @@
 [
  {
+  "id": "6ae8723fbbefc38a6cf122e5",
+  "entreprise": "AMOA",
+  "poste": "Développeur·se Full Stack (JS/TS) - Alternance - Paris",
+  "lieu": "75008 Paris 8e Arrondissement",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-11-02T11:21:31.469Z",
+  "expiration": "2026-12-17T11:21:34.870Z",
+  "domaine": "Développement",
+  "url": "https://jobs.makesense.org/fr/jobs/amoa-developpeurse-full-stack-jsts-alternance-paris-9N6deI9FPIncywO2eU47?source=api-apprentissage"
+ },
+ {
   "id": "6ae52296ec4f5594ab40d140",
   "entreprise": "PAPREC FRANCE",
   "poste": "Alternant Chargé de Mission IA H/F",
@@ -10,78 +22,6 @@
   "expiration": "2026-12-30T12:47:41.000Z",
   "domaine": "Data & IA",
   "url": "https://r.holeest.com/redirect?jd_token=CkbI3f&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84985191.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84985191"
- },
- {
-  "id": "6ae52579bfbdb64c1a6ae385",
-  "entreprise": "REDSUP",
-  "poste": "Administrateur DevOps (H/F)",
-  "lieu": "75009 Paris 9e Arrondissement",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-30T03:27:25.495Z",
-  "expiration": "2026-12-30T03:27:25.495Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://www.meteojob.com/jobs/57788064?utm_source=pole-emploi&utm_medium=aggregator-free"
- },
- {
-  "id": "6ae52579bfbdb64c1a6ae393",
-  "entreprise": "REDSUP",
-  "poste": "Technicien / Technicienne réseau informatique (H/F)",
-  "lieu": "75009 Paris 9e Arrondissement",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-30T03:27:25.491Z",
-  "expiration": "2026-12-30T03:27:25.491Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://www.meteojob.com/jobs/57788062?utm_source=pole-emploi&utm_medium=aggregator-free"
- },
- {
-  "id": "6ae5257abfbdb64c1a6ae3eb",
-  "entreprise": "REDSUP",
-  "poste": "Expert intelligence artificielle (H/F)",
-  "lieu": "92110 Clichy",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-30T03:27:25.489Z",
-  "expiration": "2026-12-30T03:27:25.489Z",
-  "domaine": "Data & IA",
-  "url": "https://www.meteojob.com/jobs/57788057?utm_source=pole-emploi&utm_medium=aggregator-free"
- },
- {
-  "id": "6ae52579bfbdb64c1a6ae394",
-  "entreprise": "REDSUP",
-  "poste": "Administrateur / Administratrice réseau informatique (H/F)",
-  "lieu": "75009 Paris 9e Arrondissement",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-30T03:27:25.488Z",
-  "expiration": "2026-12-30T03:27:25.488Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://www.meteojob.com/jobs/57788066?utm_source=pole-emploi&utm_medium=aggregator-free"
- },
- {
-  "id": "6ae52579bfbdb64c1a6ae386",
-  "entreprise": "REDSUP",
-  "poste": "Expert intelligence artificielle (H/F)",
-  "lieu": "75009 Paris 9e Arrondissement",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-30T03:27:25.488Z",
-  "expiration": "2026-12-30T03:27:25.488Z",
-  "domaine": "Data & IA",
-  "url": "https://www.meteojob.com/jobs/57788060?utm_source=pole-emploi&utm_medium=aggregator-free"
- },
- {
-  "id": "6ae52579bfbdb64c1a6ae395",
-  "entreprise": "REDSUP",
-  "poste": "Expert / Experte en cybersécurité (H/F)",
-  "lieu": "75009 Paris 9e Arrondissement",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-30T03:27:23.679Z",
-  "expiration": "2026-12-30T03:27:23.679Z",
-  "domaine": "Cybersécurité",
-  "url": "https://www.meteojob.com/jobs/57788058?utm_source=pole-emploi&utm_medium=aggregator-free"
  },
  {
   "id": "6ae3d41dbfbdb64c1a6a76cc",
@@ -178,18 +118,6 @@
   "expiration": "2026-12-27T00:00:00.000Z",
   "domaine": "Systèmes, réseaux & support",
   "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae0c23a149b034bd055832b/chargé-de-recrutement-it"
- },
- {
-  "id": "6ae12d091b7811ea8d92c33d",
-  "entreprise": "Direction générale du trésor",
-  "poste": "Apprenti(e) Ingénieur(e) système, réseaux et DevOps",
-  "lieu": "75012 Paris 12e Arrondissement",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-27T13:56:22.000Z",
-  "expiration": "2027-01-14T23:00:00.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentie-ingenieure-systeme-reseaux-et-devops-1"
  },
  {
   "id": "6ae28012ec4f5594ab3fd462",
@@ -562,18 +490,6 @@
   "expiration": "2026-12-07T16:37:14.346Z",
   "domaine": "Data & IA",
   "url": "https://candidat.francetravail.fr/offres/recherche/detail/214XXXM"
- },
- {
-  "id": "6a99f014b7a03ff3606ecd2a",
-  "entreprise": "HELLOWORK",
-  "poste": "Alternance - Transformation Digitale et IA H/F",
-  "lieu": "94400 Vitry-sur-Seine",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": 12,
-  "publie": "2026-10-03T20:07:50.000Z",
-  "expiration": "2026-12-03T20:07:50.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=pJbIqa&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82971003.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bmarketing%252Cgraphisme%252Caudiovisuel%252Cpub%26utm_content%3Dfluxbonnealternance%26utm_term%3D82971003"
  },
  {
   "id": "6aa86fbd9dceff7dd4b88f37",
