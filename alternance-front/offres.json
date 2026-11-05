@@ -1,5 +1,41 @@
 [
  {
+  "id": "6aebba1fcc766074572b5993",
+  "entreprise": "DEVOTEAM",
+  "poste": "Alternance - Ingénieur R&D Intelligence Artificielle H/F",
+  "lieu": "92300 Levallois-Perret",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-11-04T18:30:09.000Z",
+  "expiration": "2027-01-04T18:30:09.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=DkMCQ2&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85166283.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D85166283"
+ },
+ {
+  "id": "6aebbd1fcc766074572b5e12",
+  "entreprise": "Layan",
+  "poste": "Support aux utilisateurs en informatique (H/F)",
+  "lieu": "75013 Paris 13e Arrondissement",
+  "contrat": "Apprentissage",
+  "duree": 6,
+  "publie": "2026-11-04T06:05:39.613Z",
+  "expiration": "2027-01-04T06:05:39.613Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://jobs.layan.eu/fr/offer-of-layan-1-no-115705/56"
+ },
+ {
+  "id": "6aebba1ccc766074572b591f",
+  "entreprise": "HUB SAFE - SAFESQUARE BY SAMSIC",
+  "poste": "Apprenti Bac+5 Ingénieur - Data Scientist H/F",
+  "lieu": "93290 Tremblay-en-France",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-11-03T22:02:34.000Z",
+  "expiration": "2027-01-03T22:02:34.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=D6JyRV&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85123185.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85123185"
+ },
+ {
   "id": "6aea6ba4cc766074572b568e",
   "entreprise": "Link Consulting",
   "poste": "Tech Lead C# React (H/F) (Link Consulting)",
@@ -346,18 +382,6 @@
   "expiration": "2027-01-14T23:00:00.000Z",
   "domaine": "Data & IA",
   "url": "https://www.pass.fonction-publique.gouv.fr/offre/alternance-cheffe-de-produit-intelligence-artificielle-product-manager"
- },
- {
-  "id": "6adfdc92ec4f5594ab3ea2f5",
-  "entreprise": "GROUPE LA FRANCAISE",
-  "poste": "Alternant - Chargée de Projet Intelligence Artificielle IA H/F",
-  "lieu": "75001 Paris",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-26T14:04:26.000Z",
-  "expiration": "2026-12-26T14:04:26.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=BS6sUT&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84805143.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D84805143"
  },
  {
   "id": "6adfdf5abfbdb64c1a6935aa",
