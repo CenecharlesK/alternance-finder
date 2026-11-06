@@ -1,15 +1,51 @@
 [
  {
-  "id": "6aebba1fcc766074572b5993",
-  "entreprise": "DEVOTEAM",
-  "poste": "Alternance - Ingénieur R&D Intelligence Artificielle H/F",
-  "lieu": "92300 Levallois-Perret",
+  "id": "6aed96982fe99c696bfe9c45",
+  "entreprise": "EUROELEC-SMART ENERGY",
+  "poste": "Alternance Chargé de projet IA & SI H/F",
+  "lieu": "36 RUE DES BERNARDINS 75005 PARIS",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-11-06T08:58:00.377Z",
+  "expiration": "2027-01-06T00:00:00.000Z",
+  "domaine": "Data & IA",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aed96982fe99c696bfe9c45/alternance-chargé-de-projet-ia-si-h-f"
+ },
+ {
+  "id": "6aed0b9ccc766074572b6015",
+  "entreprise": "ALLIANZ PARTNERS SAS",
+  "poste": "Alternance - Portfolio & Data Analyst H/F",
+  "lieu": "93400 Saint-Ouen-sur-Seine",
   "contrat": "Apprentissage, Professionnalisation",
   "duree": null,
-  "publie": "2026-11-04T18:30:09.000Z",
-  "expiration": "2027-01-04T18:30:09.000Z",
+  "publie": "2026-11-05T15:38:15.000Z",
+  "expiration": "2027-01-05T15:38:15.000Z",
   "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=DkMCQ2&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85166283.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D85166283"
+  "url": "https://r.holeest.com/redirect?jd_token=DyNh8c&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85204355.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85204355"
+ },
+ {
+  "id": "6aed0b9ccc766074572b6040",
+  "entreprise": "FM FRANCE",
+  "poste": "Alternant Développeur et Maintenance Informatique H/F",
+  "lieu": "77610 Fontenay-Trésigny",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 24,
+  "publie": "2026-11-05T11:07:12.000Z",
+  "expiration": "2027-01-05T11:07:12.000Z",
+  "domaine": "Développement",
+  "url": "https://r.holeest.com/redirect?jd_token=DvNrih&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85186653.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85186653"
+ },
+ {
+  "id": "6ad93ae32b0b33f74bce64bd",
+  "entreprise": "FRANCE TRAVAIL",
+  "poste": "Apprentissage - chargé.e d'analyse de données de pilotage",
+  "lieu": "75020 Paris 20e Arrondissement",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-11-05T09:21:17.427Z",
+  "expiration": "2027-01-04T09:21:17.427Z",
+  "domaine": "Data & IA",
+  "url": "https://recrute.francetravail.org/Pages/Offre/detailoffre.aspx?idOffre=90734&idOrigine=502&LCID=1036&offerReference=2026-90734"
  },
  {
   "id": "6aebbd1fcc766074572b5e12",
@@ -22,18 +58,6 @@
   "expiration": "2027-01-04T06:05:39.613Z",
   "domaine": "Systèmes, réseaux & support",
   "url": "https://jobs.layan.eu/fr/offer-of-layan-1-no-115705/56"
- },
- {
-  "id": "6aebba1ccc766074572b591f",
-  "entreprise": "HUB SAFE - SAFESQUARE BY SAMSIC",
-  "poste": "Apprenti Bac+5 Ingénieur - Data Scientist H/F",
-  "lieu": "93290 Tremblay-en-France",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-11-03T22:02:34.000Z",
-  "expiration": "2027-01-03T22:02:34.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=D6JyRV&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85123185.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85123185"
  },
  {
   "id": "6aea6ba4cc766074572b568e",
@@ -408,18 +432,6 @@
   "url": "https://r.holeest.com/redirect?jd_token=pJ64SI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80594082.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80594082"
  },
  {
-  "id": "6adbd8e3ec4f5594ab3c8a4c",
-  "entreprise": "MINISTERE DE LA CULTURE",
-  "poste": "Apprenti Service informatique (H/F)",
-  "lieu": "78000 Versailles",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-22T22:22:40.000Z",
-  "expiration": "2026-12-21T22:22:40.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/versailles/apprenti-service-informatique-h-f-367115210"
- },
- {
   "id": "6ada88bdd61b4915a03dcb0b",
   "entreprise": "CARREFOUR HYPERMARCHES",
   "poste": "Carrefour Links Chef de Projet Data - Alternance H/F",
@@ -442,6 +454,18 @@
   "expiration": "2026-12-04T14:22:22.473Z",
   "domaine": "Développement",
   "url": "https://jobs.makesense.org/fr/jobs/woodoo-alternance-developpeurse-full-stack-industrie-40-hf-yGvoUSTAta9bd4OUhj3X?source=api-apprentissage"
+ },
+ {
+  "id": "6ad3f422ee10726147fcdf14",
+  "entreprise": "TWO CATS",
+  "poste": "Alternance - Assistant(e) e-commerce & site web (H/F)",
+  "lieu": "95370 Montigny-lès-Cormeilles",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-10-17T14:56:02.691Z",
+  "expiration": "2026-12-17T14:56:02.691Z",
+  "domaine": "Développement",
+  "url": "https://candidat.francetravail.fr/offres/recherche/detail/215JKDD"
  },
  {
   "id": "6ad14e4418139f73ced8aa2c",
@@ -514,30 +538,6 @@
   "expiration": "2026-12-08T12:12:10.728Z",
   "domaine": "Gestion de projet & produit",
   "url": "https://emploi.batiactu.com/offre-emploi/saintgobain-alternance-product-owner-digital-h-f-courbevoie-940155.php?utm_source=candidat.francetravail.fr&utm_medium=referral&utm_path=/candidat/rechercheoffres/detail/idBA/940155"
- },
- {
-  "id": "6a7658310f924fc95a1131d4",
-  "entreprise": "SPIE GLOBAL SERVICES ENERGY",
-  "poste": "Apprenti Data Ingénieur H/F",
-  "lieu": "95000 Cergy",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": 24,
-  "publie": "2026-10-07T20:10:11.000Z",
-  "expiration": "2026-12-07T20:10:11.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=pJ4gJI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82130810.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D82130810"
- },
- {
-  "id": "6a9f35f6200ee040c1191cc5",
-  "entreprise": "SPIE OPERATIONS",
-  "poste": "Alternant Run Applicatif & Chef de Projet IT H/F",
-  "lieu": "Route de Pontoise 95300 Ennery",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": 12,
-  "publie": "2026-10-07T20:08:49.000Z",
-  "expiration": "2026-12-07T20:08:49.000Z",
-  "domaine": "Gestion de projet & produit",
-  "url": "https://r.holeest.com/redirect?jd_token=pJ4gxe&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83091791.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83091791"
  },
  {
   "id": "6adfdee7bfbdb64c1a691a72",
