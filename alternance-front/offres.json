@@ -1,5 +1,17 @@
 [
  {
+  "id": "6af251a9cc766074572b76cd",
+  "entreprise": "ARKEMA FRANCE",
+  "poste": "Alternant Web Analytics H/F",
+  "lieu": "92800 Puteaux",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-11-09T15:29:23.000Z",
+  "expiration": "2027-01-09T15:29:23.000Z",
+  "domaine": "Développement",
+  "url": "https://r.holeest.com/redirect?jd_token=Em1EER&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85337883.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85337883"
+ },
+ {
   "id": "6a7658310f924fc95a1131d4",
   "entreprise": "SPIE GLOBAL SERVICES ENERGY",
   "poste": "Apprenti Data Ingénieur H/F",
@@ -22,18 +34,6 @@
   "expiration": "2027-01-07T22:08:09.000Z",
   "domaine": "Gestion de projet & produit",
   "url": "https://r.holeest.com/redirect?jd_token=pJ4gxe&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83091791.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83091791"
- },
- {
-  "id": "6aed96982fe99c696bfe9c45",
-  "entreprise": "EUROELEC-SMART ENERGY",
-  "poste": "Alternance Chargé de projet IA & SI H/F",
-  "lieu": "36 RUE DES BERNARDINS 75005 PARIS",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-11-06T08:58:00.377Z",
-  "expiration": "2027-01-06T00:00:00.000Z",
-  "domaine": "Data & IA",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aed96982fe99c696bfe9c45/alternance-chargé-de-projet-ia-si-h-f"
  },
  {
   "id": "6ac570f11778092e497ff3ac",
@@ -288,138 +288,6 @@
   "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae0c23a149b034bd055832b/chargé-de-recrutement-it"
  },
  {
-  "id": "6ae28012ec4f5594ab3fd462",
-  "entreprise": "REDSUP",
-  "poste": "Ingénieur Cybersécurité (H/F) - Alternance",
-  "lieu": "92110 Clichy",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-27T12:50:28.000Z",
-  "expiration": "2026-12-27T12:50:28.000Z",
-  "domaine": "Cybersécurité",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd462/ingénieur-cybersécurité-h-f-alternance"
- },
- {
-  "id": "6ae28012ec4f5594ab3fd463",
-  "entreprise": "REDSUP",
-  "poste": "Spécialiste en Conception et Déploiement de Solutions IA (H/F) – Alternance",
-  "lieu": "92110 Clichy",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-27T12:50:22.000Z",
-  "expiration": "2026-12-27T12:50:22.000Z",
-  "domaine": "Data & IA",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd463/spécialiste-en-conception-et-déploiement-de-solutions-ia-h-f-alternance"
- },
- {
-  "id": "6ae28012ec4f5594ab3fd464",
-  "entreprise": "REDSUP",
-  "poste": "Technicien Systèmes et Réseaux (H/F) – Alternance",
-  "lieu": "92110 Clichy",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-27T12:50:18.000Z",
-  "expiration": "2026-12-27T12:50:18.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd464/technicien-systèmes-et-réseaux-h-f-alternance"
- },
- {
-  "id": "6ae28012ec4f5594ab3fd465",
-  "entreprise": "REDSUP",
-  "poste": "Technicien Réseaux",
-  "lieu": "92110 Clichy",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-27T12:50:15.000Z",
-  "expiration": "2026-12-27T12:50:15.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd465/technicien-réseaux"
- },
- {
-  "id": "6ae28012ec4f5594ab3fd467",
-  "entreprise": "REDSUP",
-  "poste": "Administrateur Réseaux (H/F) – Alternance",
-  "lieu": "92110 Clichy",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-27T12:50:07.000Z",
-  "expiration": "2026-12-27T12:50:07.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd467/administrateur-réseaux-h-f-alternance"
- },
- {
-  "id": "6ae28012ec4f5594ab3fd468",
-  "entreprise": "REDSUP",
-  "poste": "Ingénieur Cybersécurité (H/F) – Alternance",
-  "lieu": "92110 Clichy",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-27T12:50:02.000Z",
-  "expiration": "2026-12-27T12:50:02.000Z",
-  "domaine": "Cybersécurité",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd468/ingénieur-cybersécurité-h-f-alternance"
- },
- {
-  "id": "6ae28012ec4f5594ab3fd469",
-  "entreprise": "REDSUP",
-  "poste": "Administrateur Cloud & DevSecOps (H/F) – Alternance",
-  "lieu": "92110 Clichy",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-27T12:49:59.000Z",
-  "expiration": "2026-12-27T12:49:59.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd469/administrateur-cloud-amp-dev-sec-ops-h-f-alternance"
- },
- {
-  "id": "6ae28012ec4f5594ab3fd46a",
-  "entreprise": "REDSUP",
-  "poste": "Administrateur Cloud & DevSecOps (H/F) – Alternance",
-  "lieu": "92110 Clichy",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-27T12:49:54.000Z",
-  "expiration": "2026-12-27T12:49:54.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd46a/administrateur-cloud-amp-dev-sec-ops-h-f-alternance"
- },
- {
-  "id": "6ae28012ec4f5594ab3fd46b",
-  "entreprise": "REDSUP",
-  "poste": "Technicien Support IT & Cybersécurité (H/F) – Alternance",
-  "lieu": "92110 Clichy",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-27T12:49:45.000Z",
-  "expiration": "2026-12-27T12:49:45.000Z",
-  "domaine": "Cybersécurité",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd46b/technicien-support-it-amp-cybersécurité-h-f-alternance"
- },
- {
-  "id": "6ae28012ec4f5594ab3fd46c",
-  "entreprise": "REDSUP",
-  "poste": "Technicien Support IT & Cybersécurité (H/F) – Alternance",
-  "lieu": "92110 Clichy",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-27T12:49:41.000Z",
-  "expiration": "2026-12-27T12:49:41.000Z",
-  "domaine": "Cybersécurité",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd46c/technicien-support-it-amp-cybersécurité-h-f-alternance"
- },
- {
-  "id": "6ae28012ec4f5594ab3fd46d",
-  "entreprise": "REDSUP",
-  "poste": "Spécialiste en Conception et Déploiement de Solutions IA (H/F) – Alternance",
-  "lieu": "92110 Clichy",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-27T12:49:38.000Z",
-  "expiration": "2026-12-27T12:49:38.000Z",
-  "domaine": "Data & IA",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd46d/spécialiste-en-conception-et-déploiement-de-solutions-ia-h-f-alternance"
- },
- {
   "id": "6aa86fa79dceff7dd4b88a5b",
   "entreprise": "ELIOR PARTICIPATIONS",
   "poste": "Chargé Power Bi - Alternance H/F",
@@ -442,6 +310,18 @@
   "expiration": "2026-12-26T12:13:58.182Z",
   "domaine": "Gestion de projet & produit",
   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215QYWC"
+ },
+ {
+  "id": "6adfdc90ec4f5594ab3ea27b",
+  "entreprise": "SAPIAN",
+  "poste": "Alternance - Stage - Chef de Projet IA & Innovation H/F",
+  "lieu": "92800 Puteaux",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 12,
+  "publie": "2026-10-26T10:08:42.000Z",
+  "expiration": "2026-12-26T10:08:42.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=Eje7MK&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84793741.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84793741"
  },
  {
   "id": "6ada88bdd61b4915a03dcb0b",
