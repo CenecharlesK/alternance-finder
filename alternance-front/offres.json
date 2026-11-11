@@ -1,5 +1,29 @@
 [
  {
+  "id": "6af3a625cc766074572b7ff1",
+  "entreprise": "Link Consulting",
+  "poste": "Tech Lead C# React (H/F) (Link Consulting)",
+  "lieu": "75001 Paris",
+  "contrat": "Professionnalisation",
+  "duree": null,
+  "publie": "2026-11-10T20:00:56.175Z",
+  "expiration": "2027-01-10T20:00:56.175Z",
+  "domaine": "Développement",
+  "url": "https://jobaffinity.fr/apply/0lb3gjvr3vizneafs3?src=FranceTravail%20API"
+ },
+ {
+  "id": "6af3a625cc766074572b800d",
+  "entreprise": "Envie Le Labo - Fédération Envie",
+  "poste": "Product Builder : Envie de développer avec frénésie des solutions IA/no code pour automatiser et enrichir nos process ?! (altern.12m ou stage 6m) (H/F)",
+  "lieu": "75001 Paris",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-11-10T18:31:20.083Z",
+  "expiration": "2027-01-10T18:31:20.083Z",
+  "domaine": "Data & IA",
+  "url": "https://jobs.makesense.org/fr/jobs/envie-le-labo-federation-envie-product-builder-envie-de-developper-avec-frenesie-des-solutions-iano-code-pour-automatiser-et-enrichir-nos-process-altern12m-ou-stage-6m-fltM9EPRSUAYIAaxsBhM?source=france_travail"
+ },
+ {
   "id": "6af251a9cc766074572b76cd",
   "entreprise": "ARKEMA FRANCE",
   "poste": "Alternant Web Analytics H/F",
@@ -310,18 +334,6 @@
   "expiration": "2026-12-26T12:13:58.182Z",
   "domaine": "Gestion de projet & produit",
   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215QYWC"
- },
- {
-  "id": "6adfdc90ec4f5594ab3ea27b",
-  "entreprise": "SAPIAN",
-  "poste": "Alternance - Stage - Chef de Projet IA & Innovation H/F",
-  "lieu": "92800 Puteaux",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": 12,
-  "publie": "2026-10-26T10:08:42.000Z",
-  "expiration": "2026-12-26T10:08:42.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=Eje7MK&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84793741.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84793741"
  },
  {
   "id": "6ada88bdd61b4915a03dcb0b",
