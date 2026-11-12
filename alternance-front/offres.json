@@ -1,5 +1,17 @@
 [
  {
+  "id": "6af4a6ee7e03d84ce3afbb19",
+  "entreprise": "PONGERS",
+  "poste": "Architecte big data",
+  "lieu": "61 RUE DE LYON 75012 PARIS",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-11-11T17:33:34.292Z",
+  "expiration": "2027-01-11T00:00:00.000Z",
+  "domaine": "Data & IA",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6af4a6ee7e03d84ce3afbb19/architecte-big-data"
+ },
+ {
   "id": "6af3a625cc766074572b7ff1",
   "entreprise": "Link Consulting",
   "poste": "Tech Lead C# React (H/F) (Link Consulting)",
@@ -60,30 +72,6 @@
   "url": "https://r.holeest.com/redirect?jd_token=pJ4gxe&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83091791.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83091791"
  },
  {
-  "id": "6ac570f11778092e497ff3ac",
-  "entreprise": "GROUPE NET",
-  "poste": "Charge de Programmation Far Alternance H/F",
-  "lieu": "75001 Paris",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": 12,
-  "publie": "2026-11-05T22:10:17.000Z",
-  "expiration": "2027-01-05T22:10:17.000Z",
-  "domaine": "Développement",
-  "url": "https://r.holeest.com/redirect?jd_token=tN9OYI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84149663.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D84149663"
- },
- {
-  "id": "6aed0b9ccc766074572b6015",
-  "entreprise": "ALLIANZ PARTNERS SAS",
-  "poste": "Alternance - Portfolio & Data Analyst H/F",
-  "lieu": "93400 Saint-Ouen-sur-Seine",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-11-05T15:38:15.000Z",
-  "expiration": "2027-01-05T15:38:15.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=DyNh8c&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85204355.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85204355"
- },
- {
   "id": "6aed0b9ccc766074572b6040",
   "entreprise": "FM FRANCE",
   "poste": "Alternant Développeur et Maintenance Informatique H/F",
@@ -120,18 +108,6 @@
   "url": "https://jobs.layan.eu/fr/offer-of-layan-1-no-115705/56"
  },
  {
-  "id": "6aea6ba4cc766074572b568e",
-  "entreprise": "Link Consulting",
-  "poste": "Tech Lead C# React (H/F) (Link Consulting)",
-  "lieu": "75001 Paris",
-  "contrat": "Professionnalisation",
-  "duree": null,
-  "publie": "2026-11-03T20:00:51.878Z",
-  "expiration": "2027-01-03T20:00:51.878Z",
-  "domaine": "Développement",
-  "url": "https://jobaffinity.fr/apply/0lb3gjvr3vizneafs3?src=FranceTravail%20API"
- },
- {
   "id": "6aea6ba4cc766074572b568c",
   "entreprise": "ALTER SI",
   "poste": "STAGE FIN D'ETUDE OU ALTERNANCE STAGE : CONSULtant BI (H/F)",
@@ -156,42 +132,6 @@
   "url": "https://jobs.makesense.org/fr/jobs/holis-data-analyst-scientist-startup-a-impact-ynnY0fGqKDP1kM2UdGIE?source=france_travail"
  },
  {
-  "id": "6aea68b1cc766074572b4d4b",
-  "entreprise": "BUT",
-  "poste": "Alternant Web Designer H/F",
-  "lieu": "77184 Émerainville",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-11-03T16:21:43.000Z",
-  "expiration": "2027-01-03T16:21:43.000Z",
-  "domaine": "Design UX/UI",
-  "url": "https://r.holeest.com/redirect?jd_token=D56ZuP&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85115339.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bmarketing%252Cgraphisme%252Caudiovisuel%252Cpub%26utm_content%3Dfluxbonnealternance%26utm_term%3D85115339"
- },
- {
-  "id": "6ae91727cc766074572b442d",
-  "entreprise": "SGS FRANCE",
-  "poste": "Alternance - Juriste Conformité et Protection des Données Personnelles - Décembre 2026. H/F",
-  "lieu": "94110 Arcueil",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-11-02T09:39:44.000Z",
-  "expiration": "2027-01-02T09:39:44.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=CLsHfw&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85039081.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bjuridique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85039081"
- },
- {
-  "id": "6ae91a0fcc766074572b4971",
-  "entreprise": "LAB EVENT",
-  "poste": "Product Owner / QA - Logiciel SaaS / ALTERNANCE (H/F)",
-  "lieu": "92300 Levallois-Perret",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-11-02T09:30:58.021Z",
-  "expiration": "2027-01-02T09:30:58.021Z",
-  "domaine": "Gestion de projet & produit",
-  "url": "https://candidat.francetravail.fr/offres/recherche/detail/215XFWB"
- },
- {
   "id": "6aa86fbd9dceff7dd4b88f37",
   "entreprise": "ELIOR PARTICIPATIONS",
   "poste": "Chargé Power Bi - Alternance H/F",
@@ -213,7 +153,7 @@
   "publie": "2026-10-30T12:47:41.000Z",
   "expiration": "2026-12-30T12:47:41.000Z",
   "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=CkbI3f&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84985191.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84985191"
+  "url": "https://r.holeest.com/redirect?jd_token=EPIy6a&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84985191.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84985191"
  },
  {
   "id": "6ae3d41dbfbdb64c1a6a76cc",
@@ -324,16 +264,40 @@
   "url": "https://r.holeest.com/redirect?jd_token=pJbImT&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81727569.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D81727569"
  },
  {
-  "id": "6adfdf5abfbdb64c1a6935aa",
-  "entreprise": "HENIX",
-  "poste": "Coordinateur / Coordinatrice projet en Maîtrise d'Ouvrage (MOA) (H/F)",
-  "lieu": "92120 Montrouge",
-  "contrat": "Professionnalisation",
+  "id": "6adfdb771b7811ea8d92791c",
+  "entreprise": "Secrétariat Général - Ministère de la Justice",
+  "poste": "Alternance – Chef.fe de produit Intelligence Artificielle (Product manager)",
+  "lieu": "75019 Paris 19e Arrondissement",
+  "contrat": "Apprentissage",
   "duree": 12,
-  "publie": "2026-10-26T12:13:58.182Z",
-  "expiration": "2026-12-26T12:13:58.182Z",
-  "domaine": "Gestion de projet & produit",
-  "url": "https://candidat.francetravail.fr/offres/recherche/detail/215QYWC"
+  "publie": "2026-10-26T14:42:24.000Z",
+  "expiration": "2027-01-14T23:00:00.000Z",
+  "domaine": "Data & IA",
+  "url": "https://www.pass.fonction-publique.gouv.fr/offre/alternance-cheffe-de-produit-intelligence-artificielle-product-manager"
+ },
+ {
+  "id": "6adfdc90ec4f5594ab3ea27b",
+  "entreprise": "SAPIAN",
+  "poste": "Alternance - Stage - Chef de Projet IA & Innovation H/F",
+  "lieu": "92800 Puteaux",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 12,
+  "publie": "2026-10-26T10:08:42.000Z",
+  "expiration": "2026-12-26T10:08:42.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=Eje7MK&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84793741.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84793741"
+ },
+ {
+  "id": "6a3c574baba467736d4e806c",
+  "entreprise": "MUTUELLE GENERALE EDUCATION NATIONALE",
+  "poste": "Alternance Data & IA Chargé·e de la Gouvernance des Données H/F",
+  "lieu": "75001 Paris",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-25T22:08:26.000Z",
+  "expiration": "2026-12-25T22:08:26.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=pJ64SI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80594082.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80594082"
  },
  {
   "id": "6ada88bdd61b4915a03dcb0b",
@@ -372,6 +336,18 @@
   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215JKDD"
  },
  {
+  "id": "6ad14e4418139f73ced8aa2c",
+  "entreprise": "BOUYGUES CONSTRUCTION",
+  "poste": "Alternance - Analyste Power Bi H/F",
+  "lieu": "78280 Guyancourt",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-10-15T12:37:46.000Z",
+  "expiration": "2026-12-15T12:37:46.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=xsJqZI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84469541.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84469541"
+ },
+ {
   "id": "6acfff94fcd49a2239d8363e",
   "entreprise": "NGE",
   "poste": "STAGE DE FIN D'ETUDES - Ingénieur Systèmes & fluides H/F",
@@ -384,18 +360,6 @@
   "url": "http://app.mytalentplug.com/redirection.aspx?ojid=wdTpEp74oxllneLEC2th4Q=="
  },
  {
-  "id": "6acd5c9b0226c9bf0008d204",
-  "entreprise": "COMPAGNIE DE SAINT-GOBAIN",
-  "poste": "Alternance - Product Owner Digital H/F (H/F)",
-  "lieu": "92400 Courbevoie",
-  "contrat": "Apprentissage",
-  "duree": 24,
-  "publie": "2026-10-12T08:10:49.910Z",
-  "expiration": "2026-12-12T08:10:49.910Z",
-  "domaine": "Gestion de projet & produit",
-  "url": "https://joinus.saint-gobain.com/description?nPostingTargetId=326172&id=Q2FFK026203F3VBQBLO7V8M1O&LG=FR&languageSelect=FR&cType=JobBoard&sType=FranceTravail"
- },
- {
   "id": "6aa5cd59e3e77bdfae2a281b",
   "entreprise": "KPMG",
   "poste": "Consultant Alternant IT & Programmes de Transformation H/F",
@@ -405,7 +369,7 @@
   "publie": "2026-10-11T20:07:01.000Z",
   "expiration": "2026-12-11T20:07:01.000Z",
   "domaine": "Systèmes, réseaux & support",
-  "url": "https://r.holeest.com/redirect?jd_token=pJbIi7&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83282282.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83282282"
+  "url": "https://r.holeest.com/redirect?jd_token=EPMEvr&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83282282.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83282282"
  },
  {
   "id": "6adbdcf7bfbdb64c1a67fcb2",
@@ -418,30 +382,6 @@
   "expiration": "2026-12-08T14:56:05.572Z",
   "domaine": "Data & IA",
   "url": "https://candidat.francetravail.fr/offres/recherche/detail/214YWWX"
- },
- {
-  "id": "6ac96846015572e53e599e2a",
-  "entreprise": "",
-  "poste": "Alternance - Product Owner Digital H/F",
-  "lieu": "92000 Nanterre",
-  "contrat": "Apprentissage",
-  "duree": 24,
-  "publie": "2026-10-08T12:12:10.728Z",
-  "expiration": "2026-12-08T12:12:10.728Z",
-  "domaine": "Gestion de projet & produit",
-  "url": "https://emploi.batiactu.com/offre-emploi/saintgobain-alternance-product-owner-digital-h-f-courbevoie-940155.php?utm_source=candidat.francetravail.fr&utm_medium=referral&utm_path=/candidat/rechercheoffres/detail/idBA/940155"
- },
- {
-  "id": "6adfdee7bfbdb64c1a691a72",
-  "entreprise": "Sterimed",
-  "poste": "ALTERNANT ASSISTANT CHEF DE PROJET CRM - H/F",
-  "lieu": "92100 Boulogne-Billancourt",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-07T19:35:22.970Z",
-  "expiration": "2026-12-07T19:35:22.970Z",
-  "domaine": "Gestion de projet & produit",
-  "url": "https://sterimed.softy.pro/offre/215608?idt=5&h=2156080"
  },
  {
   "id": "6ac96846015572e53e599e2c",
