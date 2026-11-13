@@ -1,5 +1,53 @@
 [
  {
+  "id": "6af6c3cd6f8eb996b74c51c7",
+  "entreprise": "MAKSEB SOLUTIONS",
+  "poste": "Chef / Cheffe de projet digital",
+  "lieu": "39 RUE HENRI GAUTIER 93000 BOBIGNY",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-11-13T08:01:17.082Z",
+  "expiration": "2027-01-13T00:00:00.000Z",
+  "domaine": "Gestion de projet & produit",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6af6c3cd6f8eb996b74c51c7/chef-cheffe-de-projet-digital"
+ },
+ {
+  "id": "6af5eaa7c3367d6aa4c193d7",
+  "entreprise": "ITIC PARIS",
+  "poste": "Développeur / Développeuse de sécurité des systèmes d'information",
+  "lieu": "190b Boulevard de Charonne 75020 Paris",
+  "contrat": "Apprentissage",
+  "duree": 6,
+  "publie": "2026-11-12T16:34:47.905Z",
+  "expiration": "2027-01-12T00:00:00.000Z",
+  "domaine": "Cybersécurité",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6af5eaa7c3367d6aa4c193d7/développeur-développeuse-de-sécurité-des-systèmes-d-information"
+ },
+ {
+  "id": "6af5cdfb6f8eb996b74c0749",
+  "entreprise": "UMANTRUST",
+  "poste": "Alternant(e) Community Builder Cybersécurité (H/F)",
+  "lieu": "59 RUE DE PONTHIEU 75008 PARIS",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 12,
+  "publie": "2026-11-12T14:32:27.180Z",
+  "expiration": "2027-01-12T00:00:00.000Z",
+  "domaine": "Cybersécurité",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6af5cdfb6f8eb996b74c0749/alternant-e-community-builder-cybersécurité-h-f"
+ },
+ {
+  "id": "6aa5cd59e3e77bdfae2a281b",
+  "entreprise": "KPMG",
+  "poste": "Consultant Alternant IT & Programmes de Transformation H/F",
+  "lieu": "92400 Courbevoie",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-11-11T22:08:46.000Z",
+  "expiration": "2027-01-11T22:08:46.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://r.holeest.com/redirect?jd_token=EPMEvr&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83282282.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83282282"
+ },
+ {
   "id": "6af4a6ee7e03d84ce3afbb19",
   "entreprise": "PONGERS",
   "poste": "Architecte big data",
@@ -132,30 +180,6 @@
   "url": "https://jobs.makesense.org/fr/jobs/holis-data-analyst-scientist-startup-a-impact-ynnY0fGqKDP1kM2UdGIE?source=france_travail"
  },
  {
-  "id": "6aa86fbd9dceff7dd4b88f37",
-  "entreprise": "ELIOR PARTICIPATIONS",
-  "poste": "Chargé Power Bi - Alternance H/F",
-  "lieu": "94000 Créteil",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-11-01T22:08:34.000Z",
-  "expiration": "2027-01-01T22:08:34.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=pJ64Wd&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82911204.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D82911204"
- },
- {
-  "id": "6ae52296ec4f5594ab40d140",
-  "entreprise": "PAPREC FRANCE",
-  "poste": "Alternant Chargé de Mission IA H/F",
-  "lieu": "93120 La Courneuve",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-30T12:47:41.000Z",
-  "expiration": "2026-12-30T12:47:41.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=EPIy6a&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84985191.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84985191"
- },
- {
   "id": "6ae3d41dbfbdb64c1a6a76cc",
   "entreprise": "E.T.A.I.",
   "poste": "Assistant chef de projet IA et innovation médias (H/F/X)",
@@ -265,7 +289,7 @@
  },
  {
   "id": "6adfdb771b7811ea8d92791c",
-  "entreprise": "Secrétariat Général - Ministère de la Justice",
+  "entreprise": "Ministère de la Justice",
   "poste": "Alternance – Chef.fe de produit Intelligence Artificielle (Product manager)",
   "lieu": "75019 Paris 19e Arrondissement",
   "contrat": "Apprentissage",
@@ -358,18 +382,6 @@
   "expiration": "2026-12-14T14:35:27.148Z",
   "domaine": "Systèmes, réseaux & support",
   "url": "http://app.mytalentplug.com/redirection.aspx?ojid=wdTpEp74oxllneLEC2th4Q=="
- },
- {
-  "id": "6aa5cd59e3e77bdfae2a281b",
-  "entreprise": "KPMG",
-  "poste": "Consultant Alternant IT & Programmes de Transformation H/F",
-  "lieu": "92400 Courbevoie",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-11T20:07:01.000Z",
-  "expiration": "2026-12-11T20:07:01.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://r.holeest.com/redirect?jd_token=EPMEvr&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83282282.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83282282"
  },
  {
   "id": "6adbdcf7bfbdb64c1a67fcb2",
