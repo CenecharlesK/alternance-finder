@@ -1,5 +1,41 @@
 [
  {
+  "id": "6afb8bf2ed6b081e276177fb",
+  "entreprise": "BOLTING",
+  "poste": "Alternance Data Analyst H/F",
+  "lieu": "92110 Clichy",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 12,
+  "publie": "2026-11-16T18:18:21.000Z",
+  "expiration": "2027-01-16T18:18:21.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=FRqPMX&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85562355.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85562355"
+ },
+ {
+  "id": "6afb2a5abd86285fb399e46a",
+  "entreprise": "NATRAN",
+  "poste": "Stage -  data, modélisation des consommations des bâtiments H/F",
+  "lieu": "92270 Bois-Colombes",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 6,
+  "publie": "2026-11-16T16:07:54.000Z",
+  "expiration": "2026-12-14T16:07:54.000Z",
+  "domaine": "Data & IA",
+  "url": "https://www.aplitrak.com/?adid=ZXJpY2FpbmUuYmluZGVzc28uNjYwMDQuMTM2ODBAZ3J0Z2F6LmFwbGl0cmFrLmNvbQ"
+ },
+ {
+  "id": "6afb8f5bed6b081e27617b5f",
+  "entreprise": "Cojean",
+  "poste": "alternance technicien support informatique",
+  "lieu": "50 Rue Ardoin 93400 Saint-Ouen-sur-Seine",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 24,
+  "publie": "2026-11-16T11:21:51.000Z",
+  "expiration": "2027-01-16T11:22:50.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://cojean.talentview.io/jobs/hnap0k?source=la_bonne_alternance"
+ },
+ {
   "id": "6ad14e4418139f73ced8aa2c",
   "entreprise": "BOUYGUES CONSTRUCTION",
   "poste": "Alternance - Analyste Power Bi H/F",
@@ -70,18 +106,6 @@
   "expiration": "2027-01-13T16:35:04.906Z",
   "domaine": "Développement",
   "url": "https://candidat.francetravail.fr/offres/recherche/detail/216KPBV"
- },
- {
-  "id": "6af6c3cd6f8eb996b74c51c7",
-  "entreprise": "MAKSEB SOLUTIONS",
-  "poste": "Chef / Cheffe de projet digital",
-  "lieu": "39 RUE HENRI GAUTIER 93000 BOBIGNY",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-11-13T08:01:17.082Z",
-  "expiration": "2027-01-13T00:00:00.000Z",
-  "domaine": "Gestion de projet & produit",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6af6c3cd6f8eb996b74c51c7/chef-cheffe-de-projet-digital"
  },
  {
   "id": "6af5eaa7c3367d6aa4c193d7",
@@ -336,18 +360,6 @@
   "url": "https://r.holeest.com/redirect?jd_token=BTunDp&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84912582.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84912582"
  },
  {
-  "id": "6ae0c23a149b034bd055832b",
-  "entreprise": "CORTEX IT",
-  "poste": "Chargé de recrutement IT",
-  "lieu": "6 RUE D'ARMAILLE 75017 PARIS",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-27T15:24:42.027Z",
-  "expiration": "2026-12-27T00:00:00.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae0c23a149b034bd055832b/chargé-de-recrutement-it"
- },
- {
   "id": "6ad7791e04d39aae9b87130c",
   "entreprise": "SAS WOODOO",
   "poste": "ALTERNANCE - Développeur·se Full Stack – Industrie 4.0 (H/F)",
@@ -358,18 +370,6 @@
   "expiration": "2026-12-04T14:22:22.473Z",
   "domaine": "Développement",
   "url": "https://jobs.makesense.org/fr/jobs/woodoo-alternance-developpeurse-full-stack-industrie-40-hf-yGvoUSTAta9bd4OUhj3X?source=api-apprentissage"
- },
- {
-  "id": "6ad3f422ee10726147fcdf14",
-  "entreprise": "TWO CATS",
-  "poste": "Alternance - Assistant(e) e-commerce & site web (H/F)",
-  "lieu": "95370 Montigny-lès-Cormeilles",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-17T14:56:02.691Z",
-  "expiration": "2026-12-17T14:56:02.691Z",
-  "domaine": "Développement",
-  "url": "https://candidat.francetravail.fr/offres/recherche/detail/215JKDD"
  },
  {
   "id": "6acfff94fcd49a2239d8363e",
