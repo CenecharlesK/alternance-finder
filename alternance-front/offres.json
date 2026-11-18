@@ -1,5 +1,89 @@
 [
  {
+  "id": "6afcdd85ed6b081e27617c1b",
+  "entreprise": "DAY USE",
+  "poste": "Administrateur Système et Réseau - Alternance 12 À H/F",
+  "lieu": "75001 Paris",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-11-17T16:23:08.000Z",
+  "expiration": "2027-01-17T16:23:08.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://r.holeest.com/redirect?jd_token=G5MILE&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85607620.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85607620"
+ },
+ {
+  "id": "6afc7ce2312e26c38b96cbf2",
+  "entreprise": "SUZA INTERNATIONAL FRANCE",
+  "poste": "Alternance – Technicien Support Informatique & SAV E-commerce (H/F)",
+  "lieu": "11 AVENUE JOSEPH FROELICHER 77164 FERRIERES-EN-BRIE",
+  "contrat": "Apprentissage",
+  "duree": 36,
+  "publie": "2026-11-17T16:12:18.174Z",
+  "expiration": "2027-01-17T00:00:00.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6afc7ce2312e26c38b96cbf2/alternance-technicien-support-informatique-sav-e-commerce-h-f"
+ },
+ {
+  "id": "6afc6f8e312e26c38b96bbe6",
+  "entreprise": "BUYR PARTNERS",
+  "poste": "Alternant(e) – Développeur Intégrateur IA",
+  "lieu": "1 RUE BABEUF 94140 ALFORTVILLE",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-11-17T15:15:26.392Z",
+  "expiration": "2027-01-17T00:00:00.000Z",
+  "domaine": "Data & IA",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6afc6f8e312e26c38b96bbe6/alternant-e-développeur-intégrateur-ia"
+ },
+ {
+  "id": "6afcdd86ed6b081e27617c72",
+  "entreprise": "Consensy-labs",
+  "poste": "Free - Tech Lead MLOps Banque - Mini Hors Alternance et Stages H/F",
+  "lieu": "75001 Paris",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-11-17T15:14:19.000Z",
+  "expiration": "2027-01-17T15:14:19.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=G5hM07&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85605615.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85605615"
+ },
+ {
+  "id": "6afc6e81312e26c38b96bb32",
+  "entreprise": "EXCELLENCE ONLINE DISTRIBUTION",
+  "poste": "Assistant / Assistante chef de projet informatique",
+  "lieu": "24 RUE LAENNEC 93700 DRANCY",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-11-17T15:10:57.277Z",
+  "expiration": "2027-01-17T00:00:00.000Z",
+  "domaine": "Gestion de projet & produit",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6afc6e81312e26c38b96bb32/assistant-assistante-chef-de-projet-informatique"
+ },
+ {
+  "id": "6afce048ed6b081e27618444",
+  "entreprise": "FININFO",
+  "poste": "Technicien Support H/F en stage H/F",
+  "lieu": "92230 Gennevilliers",
+  "contrat": "Apprentissage",
+  "duree": 6,
+  "publie": "2026-11-17T14:35:12.698Z",
+  "expiration": "2027-01-17T14:35:12.698Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "http://app.mytalentplug.com/redirection.aspx?ojid=DKR4y14DoV05mHnbQjZudg=="
+ },
+ {
+  "id": "6a346e5c7f27726a04971118",
+  "entreprise": "CMA CGM",
+  "poste": "Alternance - Assistant Chef de Projet Digital Performance H/F",
+  "lieu": "75001 Paris",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-11-16T22:10:30.000Z",
+  "expiration": "2027-01-16T22:10:30.000Z",
+  "domaine": "Gestion de projet & produit",
+  "url": "https://r.holeest.com/redirect?jd_token=pJ4gnI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80260796.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D80260796"
+ },
+ {
   "id": "6afb8bf2ed6b081e276177fb",
   "entreprise": "BOLTING",
   "poste": "Alternance Data Analyst H/F",
@@ -24,6 +108,30 @@
   "url": "https://www.aplitrak.com/?adid=ZXJpY2FpbmUuYmluZGVzc28uNjYwMDQuMTM2ODBAZ3J0Z2F6LmFwbGl0cmFrLmNvbQ"
  },
  {
+  "id": "6afcdca1ed6b081e27617b7b",
+  "entreprise": "BRAIN NETWORKS",
+  "poste": "Ingénieur Cybersécurité – Purple Team & Security Automation F/H",
+  "lieu": "92700 Colombes",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-11-16T14:43:13.000Z",
+  "expiration": "2027-01-16T14:43:13.000Z",
+  "domaine": "Cybersécurité",
+  "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179816221W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export"
+ },
+ {
+  "id": "6afcdca1ed6b081e27617b7a",
+  "entreprise": "BRAIN NETWORKS",
+  "poste": "Administrateur Systèmes Microsoft F/H",
+  "lieu": "92700 Colombes",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-11-16T13:13:31.000Z",
+  "expiration": "2027-01-16T13:13:31.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179815537W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export"
+ },
+ {
   "id": "6afb8f5bed6b081e27617b5f",
   "entreprise": "Cojean",
   "poste": "alternance technicien support informatique",
@@ -36,18 +144,6 @@
   "url": "https://cojean.talentview.io/jobs/hnap0k?source=la_bonne_alternance"
  },
  {
-  "id": "6ad14e4418139f73ced8aa2c",
-  "entreprise": "BOUYGUES CONSTRUCTION",
-  "poste": "Alternance - Analyste Power Bi H/F",
-  "lieu": "78280 Guyancourt",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-11-14T22:10:44.000Z",
-  "expiration": "2027-01-14T22:10:44.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=xsJqZI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84469541.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84469541"
- },
- {
   "id": "6af79a6f6c7c8924df5373fe",
   "entreprise": "HOLIS",
   "poste": "Data Analyst / Scientist - Startup à impact  (H/F)",
@@ -58,18 +154,6 @@
   "expiration": "2027-01-13T18:31:35.341Z",
   "domaine": "Data & IA",
   "url": "https://jobs.makesense.org/fr/jobs/holis-data-analyst-scientist-startup-a-impact-ynnY0fGqKDP1kM2UdGIE?source=france_travail"
- },
- {
-  "id": "6af79a6f6c7c8924df5373fa",
-  "entreprise": "Envie Le Labo - Fédération Envie",
-  "poste": "Product Builder : Envie de développer avec frénésie des solutions IA/no code pour automatiser et enrichir nos process ?! (altern.12m ou stage 6m) (H/F)",
-  "lieu": "75001 Paris",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-11-13T18:31:35.335Z",
-  "expiration": "2027-01-13T18:31:35.335Z",
-  "domaine": "Data & IA",
-  "url": "https://jobs.makesense.org/fr/jobs/envie-le-labo-federation-envie-product-builder-envie-de-developper-avec-frenesie-des-solutions-iano-code-pour-automatiser-et-enrichir-nos-process-altern12m-ou-stage-6m-fltM9EPRSUAYIAaxsBhM?source=france_travail"
  },
  {
   "id": "6af79a6f6c7c8924df5373f7",
@@ -276,18 +360,6 @@
   "url": "https://jobs.makesense.org/fr/jobs/holis-data-analyst-scientist-startup-a-impact-ynnY0fGqKDP1kM2UdGIE?source=france_travail"
  },
  {
-  "id": "6ae52296ec4f5594ab40d140",
-  "entreprise": "PAPREC FRANCE",
-  "poste": "Alternant Chargé de Mission IA H/F",
-  "lieu": "93120 La Courneuve",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-30T12:47:41.000Z",
-  "expiration": "2026-12-30T12:47:41.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=F601v7&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84985191.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84985191"
- },
- {
   "id": "6ae3d41dbfbdb64c1a6a76cc",
   "entreprise": "E.T.A.I.",
   "poste": "Assistant chef de projet IA et innovation médias (H/F/X)",
@@ -324,18 +396,6 @@
   "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae311e4149b034bd056d8c1/ingenieur-de-la-connaissance-et-pilotage-projets-donnees"
  },
  {
-  "id": "6ae3d00eec4f5594ab40085b",
-  "entreprise": "CONVERTEO",
-  "poste": "Consultant Web Analytics H/F - alternance Janvier 2027",
-  "lieu": "75012 Paris 12e Arrondissement",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-29T06:41:37.000Z",
-  "expiration": "2026-12-28T06:41:37.000Z",
-  "domaine": "Développement",
-  "url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/paris/consultant-web-analytics-h-f-alternance-janvier-2027-624801641"
- },
- {
   "id": "6ae282a8bfbdb64c1a6a0954",
   "entreprise": "Inserm",
   "poste": "APPRENTI INGÉNIEUR INFORMATIQUE - H/F",
@@ -358,18 +418,6 @@
   "expiration": "2026-12-28T18:05:13.000Z",
   "domaine": "Data & IA",
   "url": "https://r.holeest.com/redirect?jd_token=BTunDp&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84912582.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84912582"
- },
- {
-  "id": "6ad7791e04d39aae9b87130c",
-  "entreprise": "SAS WOODOO",
-  "poste": "ALTERNANCE - Développeur·se Full Stack – Industrie 4.0 (H/F)",
-  "lieu": "75001 Paris",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-20T14:22:21.473Z",
-  "expiration": "2026-12-04T14:22:22.473Z",
-  "domaine": "Développement",
-  "url": "https://jobs.makesense.org/fr/jobs/woodoo-alternance-developpeurse-full-stack-industrie-40-hf-yGvoUSTAta9bd4OUhj3X?source=api-apprentissage"
  },
  {
   "id": "6acfff94fcd49a2239d8363e",
