@@ -1,5 +1,29 @@
 [
  {
+  "id": "6b001ba0f8b170d62945a775",
+  "entreprise": "VIASAY",
+  "poste": "Product Manager en alternance (100% télétravail possible)",
+  "lieu": "152 BOULEVARD PEREIRE 75017 PARIS",
+  "contrat": "Apprentissage",
+  "duree": 24,
+  "publie": "2026-11-20T10:06:24.439Z",
+  "expiration": "2027-01-20T00:00:00.000Z",
+  "domaine": "Gestion de projet & produit",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6b001ba0f8b170d62945a775/product-manager-en-alternance-100-télétravail-possible"
+ },
+ {
+  "id": "6b00050ff8b170d629459f2a",
+  "entreprise": "LA POSTE",
+  "poste": "Chef de projet IT Junior - Déploiement de solutions digitales",
+  "lieu": "92130 Issy-les-Moulineaux",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-11-20T08:30:07.630Z",
+  "expiration": "2026-12-20T08:30:02.000Z",
+  "domaine": "Gestion de projet & produit",
+  "url": "https://recrutement.lapostegroupe.com/offres/job/ISSY-LES-MOULINEAUX-Chef-de-projet-IT-Junior-D%C3%A9ploiement-de-solutions-digitales-92-92130/1377514855/"
+ },
+ {
   "id": "6afeecfd4b7c549dc3279d79",
   "entreprise": "ITIC PARIS",
   "poste": "Alternance – Technicien(ne) Support Informatique",
@@ -10,6 +34,18 @@
   "expiration": "2027-01-19T00:00:00.000Z",
   "domaine": "Systèmes, réseaux & support",
   "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6afeecfd4b7c549dc3279d79/alternance-technicien-ne-support-informatique"
+ },
+ {
+  "id": "6aff806dde83093b496ea101",
+  "entreprise": "SGS FRANCE",
+  "poste": "Alternance - Juriste Conformité et Protection des Données Personnelles - Décembre 2026. H/F",
+  "lieu": "94110 Arcueil",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-11-19T12:23:34.000Z",
+  "expiration": "2027-01-19T12:23:34.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=GvSdpt&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85691318.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bjuridique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85691318"
  },
  {
   "id": "6afed71232bf900d7197aff6",
@@ -36,30 +72,6 @@
   "url": "https://r.holeest.com/redirect?jd_token=GjBA63&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85663107.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bcommerce%26utm_content%3Dfluxbonnealternance%26utm_term%3D85663107"
  },
  {
-  "id": "6afe2efede83093b496e9c92",
-  "entreprise": "RENAULT SAS",
-  "poste": "Alternance - Assistant Gouvernance Cybersécurité H/F",
-  "lieu": "92140 Clamart",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-11-18T15:32:53.000Z",
-  "expiration": "2027-01-18T15:32:53.000Z",
-  "domaine": "Cybersécurité",
-  "url": "https://r.holeest.com/redirect?jd_token=GiCPOk&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85657693.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85657693"
- },
- {
-  "id": "6afdb82151dc81ce85d7249e",
-  "entreprise": "GROUPEMENT DES CONCESSIONNAIRES RENAULT",
-  "poste": "Alternance - Assistant Gouvernance Cybersécurité H/F",
-  "lieu": "2 Avenue Denis Papin 92140 Clamart",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-11-18T14:37:21.070Z",
-  "expiration": "2026-12-18T03:12:20.000Z",
-  "domaine": "Cybersécurité",
-  "url": "https://api.mytalentplug.com/job/v1/joboffer/redirect?id=f62aacc9-73f0-4330-807f-1d73225881b8"
- },
- {
   "id": "6afdade59212c65668544574",
   "entreprise": "GROUPEMENT DES CONCESSIONNAIRES RENAULT",
   "poste": "Alternance - Assistant Gouvernance Cybersécurité H/F",
@@ -70,6 +82,18 @@
   "expiration": "2026-12-18T02:12:41.000Z",
   "domaine": "Cybersécurité",
   "url": "https://api.mytalentplug.com/job/v1/joboffer/redirect?id=16b1e3e3-d64a-491e-a2ad-1f4b206e2967"
+ },
+ {
+  "id": "6aff7fabde83093b496e9ff8",
+  "entreprise": "Achat Solutions",
+  "poste": "ALTERNANT CHEF DE PROJET IT - DATA & BUSINESS INTELLIGENCE F/H",
+  "lieu": "92250 La Garenne-Colombes",
+  "contrat": "Apprentissage",
+  "duree": 24,
+  "publie": "2026-11-18T07:41:58.000Z",
+  "expiration": "2027-01-18T07:41:58.000Z",
+  "domaine": "Data & IA",
+  "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179817225W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export"
  },
  {
   "id": "6a84d833dadca948717059e7",
@@ -142,18 +166,6 @@
   "expiration": "2026-12-14T16:07:54.000Z",
   "domaine": "Data & IA",
   "url": "https://www.aplitrak.com/?adid=ZXJpY2FpbmUuYmluZGVzc28uNjYwMDQuMTM2ODBAZ3J0Z2F6LmFwbGl0cmFrLmNvbQ"
- },
- {
-  "id": "6afcdca1ed6b081e27617b7b",
-  "entreprise": "BRAIN NETWORKS",
-  "poste": "Ingénieur Cybersécurité – Purple Team & Security Automation F/H",
-  "lieu": "92700 Colombes",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-11-16T14:43:13.000Z",
-  "expiration": "2027-01-16T14:43:13.000Z",
-  "domaine": "Cybersécurité",
-  "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179816221W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export"
  },
  {
   "id": "6afcdca1ed6b081e27617b7a",
@@ -370,18 +382,6 @@
   "expiration": "2026-12-29T00:00:00.000Z",
   "domaine": "Data & IA",
   "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae311e4149b034bd056d8c1/ingenieur-de-la-connaissance-et-pilotage-projets-donnees"
- },
- {
-  "id": "6ae3d00eec4f5594ab40085b",
-  "entreprise": "CONVERTEO",
-  "poste": "Consultant Web Analytics H/F - alternance Janvier 2027",
-  "lieu": "75012 Paris 12e Arrondissement",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-10-29T06:41:37.000Z",
-  "expiration": "2026-12-28T06:41:37.000Z",
-  "domaine": "Développement",
-  "url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/paris/consultant-web-analytics-h-f-alternance-janvier-2027-624801641"
  },
  {
   "id": "6ae282a8bfbdb64c1a6a0954",
