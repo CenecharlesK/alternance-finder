@@ -1,5 +1,17 @@
 [
  {
+  "id": "6b006d1c879ca39b3c0bd4cf",
+  "entreprise": "SCOR SE",
+  "poste": "Apprenti Analyste Gouvernance Cybersécurité",
+  "lieu": "75016 Paris 16e Arrondissement",
+  "contrat": "Apprentissage",
+  "duree": 0,
+  "publie": "2026-11-20T15:54:04.000Z",
+  "expiration": "2026-11-27T15:54:04.000Z",
+  "domaine": "Cybersécurité",
+  "url": "https://www.aplitrak.com/?adid=aHIuMzc1MzcuMTM2ODBAc2Nvci5hcGxpdHJhay5jb20"
+ },
+ {
   "id": "6b001ba0f8b170d62945a775",
   "entreprise": "VIASAY",
   "poste": "Product Manager en alternance (100% télétravail possible)",
@@ -24,6 +36,18 @@
   "url": "https://recrutement.lapostegroupe.com/offres/job/ISSY-LES-MOULINEAUX-Chef-de-projet-IT-Junior-D%C3%A9ploiement-de-solutions-digitales-92-92130/1377514855/"
  },
  {
+  "id": "6aa1d8d40d35903fc267c44d",
+  "entreprise": "ETAM LINGERIE",
+  "poste": "Assistant·e Product Owner CRM - Alternance Octobre 2026 H/F",
+  "lieu": "92110 Clichy",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-11-19T22:08:18.000Z",
+  "expiration": "2027-01-19T22:08:18.000Z",
+  "domaine": "Gestion de projet & produit",
+  "url": "https://r.holeest.com/redirect?jd_token=z70Hbv&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83201526.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83201526"
+ },
+ {
   "id": "6afeecfd4b7c549dc3279d79",
   "entreprise": "ITIC PARIS",
   "poste": "Alternance – Technicien(ne) Support Informatique",
@@ -34,18 +58,6 @@
   "expiration": "2027-01-19T00:00:00.000Z",
   "domaine": "Systèmes, réseaux & support",
   "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6afeecfd4b7c549dc3279d79/alternance-technicien-ne-support-informatique"
- },
- {
-  "id": "6aff806dde83093b496ea101",
-  "entreprise": "SGS FRANCE",
-  "poste": "Alternance - Juriste Conformité et Protection des Données Personnelles - Décembre 2026. H/F",
-  "lieu": "94110 Arcueil",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-11-19T12:23:34.000Z",
-  "expiration": "2027-01-19T12:23:34.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=GvSdpt&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85691318.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bjuridique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85691318"
  },
  {
   "id": "6afed71232bf900d7197aff6",
@@ -141,7 +153,7 @@
   "publie": "2026-11-16T22:10:30.000Z",
   "expiration": "2027-01-16T22:10:30.000Z",
   "domaine": "Gestion de projet & produit",
-  "url": "https://r.holeest.com/redirect?jd_token=pJ4gnI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80260796.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D80260796"
+  "url": "https://r.holeest.com/redirect?jd_token=GQx50t&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80260796.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D80260796"
  },
  {
   "id": "6afb8bf2ed6b081e276177fb",
@@ -216,18 +228,6 @@
   "url": "https://jobs.makesense.org/fr/jobs/alter-si-stage-fin-detude-ou-alternance-stage-consultante-bi-hf-kc4dhdaB0wRSBbXO7ycn?source=france_travail"
  },
  {
-  "id": "6af797986c7c8924df537163",
-  "entreprise": "EDENRED FRANCE",
-  "poste": "Chargé de Projet IA & Recouvrement en Alternance H/F",
-  "lieu": "92120 Montrouge",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-11-13T16:35:29.000Z",
-  "expiration": "2027-01-13T16:35:29.000Z",
-  "domaine": "Data & IA",
-  "url": "https://r.holeest.com/redirect?jd_token=Fi34F8&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85496957.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D85496957"
- },
- {
   "id": "6af79a6f6c7c8924df537415",
   "entreprise": "",
   "poste": "Alternante en web sécurité (H/F)",
@@ -285,19 +285,7 @@
   "publie": "2026-11-09T15:29:23.000Z",
   "expiration": "2027-01-09T15:29:23.000Z",
   "domaine": "Développement",
-  "url": "https://r.holeest.com/redirect?jd_token=Em1EER&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85337883.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85337883"
- },
- {
-  "id": "6af25540cc766074572b7975",
-  "entreprise": "sapian",
-  "poste": "Alternance / Stage - Chef(fe) de Projet IA & Innovation",
-  "lieu": "92800 Puteaux",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-11-09T13:23:54.000Z",
-  "expiration": "2027-01-09T13:23:54.000Z",
-  "domaine": "Data & IA",
-  "url": "https://www.meteojob.com/jobs/57983171?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance"
+  "url": "https://r.holeest.com/redirect?jd_token=GPY0jf&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85337883.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85337883"
  },
  {
   "id": "6a7658310f924fc95a1131d4",
