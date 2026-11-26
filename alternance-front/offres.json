@@ -1,5 +1,65 @@
 [
  {
+  "id": "6b080bcf73741f560d634eb0",
+  "entreprise": "INSTITUT FRANCAIS DE FORMATION PROFESSIONNELLE A&A",
+  "poste": "Consultant / Consultante réseaux informatiques",
+  "lieu": "9 ALLEE DE L'ARCHE 92400 COURBEVOIE",
+  "contrat": "Apprentissage",
+  "duree": 24,
+  "publie": "2026-11-26T10:37:03.134Z",
+  "expiration": "2027-01-26T00:00:00.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6b080bcf73741f560d634eb0/consultant-consultante-réseaux-informatiques"
+ },
+ {
+  "id": "6b076c2d01bbb0090c4b3c40",
+  "entreprise": "QUALISOCIAL",
+  "poste": "Technicien(ne) support informatique & automatisation en alternance F/H - Qualisocial",
+  "lieu": "75009 Paris 9e Arrondissement",
+  "contrat": "Professionnalisation",
+  "duree": 12,
+  "publie": "2026-11-25T20:13:50.505Z",
+  "expiration": "2027-01-25T20:13:50.505Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://careers.werecruit.io/fr/qualisocial/offres/technicienne-support-informatique--automatisation-en-alternance-eeec47?utm_source=francetravail&utm_medium=job-board"
+ },
+ {
+  "id": "6b0736c29d3bbf8c22629d69",
+  "entreprise": "BOULEVARD VISION",
+  "poste": "Web marketer",
+  "lieu": "58 BOULEVARD DE MAGENTA 75010 PARIS",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-11-25T19:28:01.994Z",
+  "expiration": "2027-01-25T00:00:00.000Z",
+  "domaine": "Développement",
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6b0736c29d3bbf8c22629d69/web-marketer"
+ },
+ {
+  "id": "6b07695601bbb0090c4b3861",
+  "entreprise": "CONSTELLATION",
+  "poste": "Alternant Administrateur Cloud et Sécurité H/F",
+  "lieu": "92210 Saint-Cloud",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": 24,
+  "publie": "2026-11-25T10:22:33.000Z",
+  "expiration": "2027-01-25T10:22:33.000Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://r.holeest.com/redirect?jd_token=HWiNzm&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85863227.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85863227"
+ },
+ {
+  "id": "6b076c3001bbb0090c4b3cf2",
+  "entreprise": "ARKEMA France",
+  "poste": "Analyste d'étude informatique (10943) (H/F)",
+  "lieu": "92200 Neuilly-sur-Seine",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-11-25T10:03:29.263Z",
+  "expiration": "2027-01-25T10:03:29.263Z",
+  "domaine": "Systèmes, réseaux & support",
+  "url": "https://arkema-france.contactrh.com/jobs/6469/44594313"
+ },
+ {
   "id": "6b061abede83093b496ecbe8",
   "entreprise": "",
   "poste": "Alternante en web sécurité (H/F)",
@@ -276,18 +336,6 @@
   "url": "https://jobaffinity.fr/apply/0lb3gjvr3vizneafs3?src=FranceTravail%20API"
  },
  {
-  "id": "6af251a9cc766074572b76cd",
-  "entreprise": "ARKEMA FRANCE",
-  "poste": "Alternant Web Analytics H/F",
-  "lieu": "92800 Puteaux",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-11-09T15:29:23.000Z",
-  "expiration": "2027-01-09T15:29:23.000Z",
-  "domaine": "Développement",
-  "url": "https://r.holeest.com/redirect?jd_token=GPY0jf&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85337883.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85337883"
- },
- {
   "id": "6a7658310f924fc95a1131d4",
   "entreprise": "SPIE GLOBAL SERVICES ENERGY",
   "poste": "Apprenti Data Ingénieur H/F",
@@ -394,17 +442,5 @@
   "expiration": "2026-12-28T18:05:13.000Z",
   "domaine": "Data & IA",
   "url": "https://r.holeest.com/redirect?jd_token=BTunDp&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84912582.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84912582"
- },
- {
-  "id": "6ad696a2e2d92300cfde48af",
-  "entreprise": "MAYOLY",
-  "poste": "ALTERNANT CHARGÉ DANALYSE DE DONNÉES SUPPLY CHAIN - H/F",
-  "lieu": "92500 Rueil-Malmaison",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-09-25T15:29:18.166Z",
-  "expiration": "2026-11-25T15:29:18.166Z",
-  "domaine": "Data & IA",
-  "url": "https://mayoly-spindler.softy.pro/offre/221812?idt=5&h=2218120"
  }
 ]
