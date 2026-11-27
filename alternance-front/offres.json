@@ -1,27 +1,63 @@
 [
  {
-  "id": "6b080bcf73741f560d634eb0",
-  "entreprise": "INSTITUT FRANCAIS DE FORMATION PROFESSIONNELLE A&A",
-  "poste": "Consultant / Consultante réseaux informatiques",
-  "lieu": "9 ALLEE DE L'ARCHE 92400 COURBEVOIE",
-  "contrat": "Apprentissage",
-  "duree": 24,
-  "publie": "2026-11-26T10:37:03.134Z",
-  "expiration": "2027-01-26T00:00:00.000Z",
-  "domaine": "Systèmes, réseaux & support",
-  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6b080bcf73741f560d634eb0/consultant-consultante-réseaux-informatiques"
+  "id": "6b08baeb01bbb0090c4b3f12",
+  "entreprise": "MUTUELLE GENERALE EDUCATION NATIONALE",
+  "poste": "Alternance Data & IA Chargé·e de la Qualité des Données H/F",
+  "lieu": "75001 Paris",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-11-26T15:27:32.000Z",
+  "expiration": "2027-01-26T15:27:32.000Z",
+  "domaine": "Data & IA",
+  "url": "https://r.holeest.com/redirect?jd_token=Ih2Fhg&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85913926.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85913926"
  },
  {
-  "id": "6b076c2d01bbb0090c4b3c40",
-  "entreprise": "QUALISOCIAL",
-  "poste": "Technicien(ne) support informatique & automatisation en alternance F/H - Qualisocial",
-  "lieu": "75009 Paris 9e Arrondissement",
-  "contrat": "Professionnalisation",
+  "id": "6b08448173741f560d637060",
+  "entreprise": "ITIC PARIS",
+  "poste": "Technicien(ne) Support Informatique – Systèmes, Réseaux et Sécurité",
+  "lieu": "190b Boulevard de Charonne 75020 Paris",
+  "contrat": "Apprentissage, Professionnalisation",
   "duree": 12,
-  "publie": "2026-11-25T20:13:50.505Z",
-  "expiration": "2027-01-25T20:13:50.505Z",
+  "publie": "2026-11-26T14:38:56.523Z",
+  "expiration": "2027-01-26T00:00:00.000Z",
   "domaine": "Systèmes, réseaux & support",
-  "url": "https://careers.werecruit.io/fr/qualisocial/offres/technicienne-support-informatique--automatisation-en-alternance-eeec47?utm_source=francetravail&utm_medium=job-board"
+  "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6b08448173741f560d637060/technicien-ne-support-informatique-systèmes-réseaux-et-sécurité"
+ },
+ {
+  "id": "6b08bae601bbb0090c4b3e56",
+  "entreprise": "ONET AIRPORT SERVICES PROVINCE",
+  "poste": "Alternance Chef de Projet Si Métier Junior H/F",
+  "lieu": "95700 Roissy-en-France",
+  "contrat": "Apprentissage, Professionnalisation",
+  "duree": null,
+  "publie": "2026-11-26T10:48:30.000Z",
+  "expiration": "2027-01-26T10:48:30.000Z",
+  "domaine": "Gestion de projet & produit",
+  "url": "https://r.holeest.com/redirect?jd_token=IcDiyJ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85906094.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85906094"
+ },
+ {
+  "id": "6b08ba0601bbb0090c4b3dfe",
+  "entreprise": "Ministère des Armées",
+  "poste": "Apprenti(e) Data Scientist",
+  "lieu": "75015 Paris 15e Arrondissement",
+  "contrat": "Apprentissage",
+  "duree": 12,
+  "publie": "2026-11-26T07:43:10.000Z",
+  "expiration": "2027-11-14T22:00:00.000Z",
+  "domaine": "Data & IA",
+  "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentie-data-scientist-17"
+ },
+ {
+  "id": "6b08bddf01bbb0090c4b49da",
+  "entreprise": "Layan",
+  "poste": "Web marketer (H/F)",
+  "lieu": "75001 Paris",
+  "contrat": "Apprentissage",
+  "duree": 24,
+  "publie": "2026-11-26T06:04:12.904Z",
+  "expiration": "2027-01-26T06:04:12.904Z",
+  "domaine": "Développement",
+  "url": "https://jobs.layan.eu/fr/offer-of-layan-1-no-119068/56"
  },
  {
   "id": "6b0736c29d3bbf8c22629d69",
@@ -106,18 +142,6 @@
   "expiration": "2026-12-20T08:30:02.000Z",
   "domaine": "Gestion de projet & produit",
   "url": "https://recrutement.lapostegroupe.com/offres/job/ISSY-LES-MOULINEAUX-Chef-de-projet-IT-Junior-D%C3%A9ploiement-de-solutions-digitales-92-92130/1377514855/"
- },
- {
-  "id": "6ad29fb475ec98a5c11451bb",
-  "entreprise": "BUT",
-  "poste": "Alternant Chef de Produits Web H/F",
-  "lieu": "77184 Émerainville",
-  "contrat": "Apprentissage, Professionnalisation",
-  "duree": null,
-  "publie": "2026-11-19T22:12:50.000Z",
-  "expiration": "2027-01-19T22:12:50.000Z",
-  "domaine": "Développement",
-  "url": "https://r.holeest.com/redirect?jd_token=HLPXGR&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84509457.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84509457"
  },
  {
   "id": "6aa1d8d40d35903fc267c44d",
@@ -394,18 +418,6 @@
   "expiration": "2027-01-04T06:05:39.613Z",
   "domaine": "Systèmes, réseaux & support",
   "url": "https://jobs.layan.eu/fr/offer-of-layan-1-no-115705/56"
- },
- {
-  "id": "6ae3d41dbfbdb64c1a6a76cc",
-  "entreprise": "E.T.A.I.",
-  "poste": "Assistant chef de projet IA et innovation médias (H/F/X)",
-  "lieu": "94250 Gentilly",
-  "contrat": "Apprentissage",
-  "duree": 12,
-  "publie": "2026-10-29T23:31:47.683Z",
-  "expiration": "2026-12-29T23:31:47.683Z",
-  "domaine": "Data & IA",
-  "url": "https://www.aplitrak.com/?adid=bm9yYS5saGFyb3RpLjEyNDEzLjY3MDZAaW5mb3Byb2RpZ2l0YWwuYXBsaXRyYWsuY29t"
  },
  {
   "id": "6ae311e4149b034bd056d8c1",
